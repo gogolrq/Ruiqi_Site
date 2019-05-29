@@ -3,8 +3,7 @@ title: Teaching
 menu: main
 weight: -210
 ---
-
-## As an Instructor
+### As an Instructor
 <table>
   <tr>
     <td width="500px">Differential Calculus</td>
@@ -28,7 +27,7 @@ weight: -210
   </tr>
 </table>
 
-## As a Teaching Assistant
+### As a Teaching Assistant
 <table>
   <tr>
     <td width="500px">Elementary Statistics</td>

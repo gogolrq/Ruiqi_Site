@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Ruiqi Liu</title>
+    <link>https://ruiqiliu.me/</link>
+    <description>Recent content in About on Ruiqi Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 27 Feb 2018 18:00:00 +0600</lastBuildDate>
+    
+	<atom:link href="https://ruiqiliu.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Research</title>
+      <link>https://ruiqiliu.me/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruiqiliu.me/research/</guid>
+      <description>Identification and Estimation of Panel Data Models with Group Structures (With Zuofeng Shang, Qiankun Zhou and Yonghui Zhang, 2017, under R&amp;amp;R on Journal of Econometrics)
+ Statistical Inference on Panel Data Models: A Kernel Ridge Regression Model (With Shunan Zhao and Zuofeng Shang, 2017, under R&amp;amp;R on Journal of Business &amp;amp; Economic Statistics) arxiv.org/abs/1703.03031
+ Testing Independence And Goodness-of-fit In Linear Regression Models Allowing Non-existence Of The Mean Of The Response Variable (With Qiqing Yu, 2017)</description>
+    </item>
+    
+    <item>
+      <title>Talk</title>
+      <link>https://ruiqiliu.me/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruiqiliu.me/talk/</guid>
+      <description>To be added!</description>
+    </item>
+    
+    <item>
+      <title>Typography</title>
+      <link>https://ruiqiliu.me/typography/</link>
+      <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
+      
+      <guid>https://ruiqiliu.me/typography/</guid>
+      <description>Here is a paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Heading 2 Another one. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Heading 3 Yet another, but centered! Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Abouttest</title>
+      <link>https://ruiqiliu.me/abouttest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruiqiliu.me/abouttest/</guid>
+      <description>Mínimo is a Spanish word that roughly translate to Minimal.
+Minimo is a minimalist theme for Hugo.
+Minimo keeps the focus on your content and lets it shine!</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://ruiqiliu.me/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruiqiliu.me/teaching/</guid>
+      <description> As an Instructor   Differential Calculus Fall 2015   Integral Calculus Spring 2016   Ordinary Differential Equation Fall 2017   Statistical Theory Spring 2019   Introduction to Statistics Spring 2019   As a Teaching Assistant   Elementary Statistics Fall 2013, Spring 2014, Fall 2016, Spring 2017   Integral Calculus Spring 2016   Mathematics in Acton Fall 2014, Spring 2015   Probability with Statistical Methods Fall 2017   </description>
+    </item>
+    
+    <item>
+      <title>Miscellaneous</title>
+      <link>https://ruiqiliu.me/miscellaneous/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruiqiliu.me/miscellaneous/</guid>
+      <description>To be added!</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://ruiqiliu.me/fixed/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruiqiliu.me/fixed/about/</guid>
+      <description>Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on! In the novel, The Strange Case of Dr. Jeykll and Mr. Hyde, Mr. Poole is Dr. Jekyll&amp;rsquo;s virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It&amp;rsquo;s made by @mdo.
+There are currently two themes built on Poole:</description>
+    </item>
+    
+    <item>
+      <title>Another Fixed Page</title>
+      <link>https://ruiqiliu.me/fixed/altab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruiqiliu.me/fixed/altab/</guid>
+      <description>This is just another example of a fixed page, to demonstrate ordered elements in the sidebar.</description>
+    </item>
+    
+    <item>
+      <title>MathJax Support</title>
+      <link>https://ruiqiliu.me/docs/mathjax-support/</link>
+      <pubDate>Tue, 27 Feb 2018 18:00:00 +0600</pubDate>
+      
+      <guid>https://ruiqiliu.me/docs/mathjax-support/</guid>
+      <description>For enabling MathJax, add this to your content&amp;rsquo;s frontmatter:
+--- mathjax: true --- MathJax Syntax for Markdown In your Markdown content, use \\(&amp;hellip;\\) delimiters for in-line mathematics.
+For mathematics blocks you can use either $$&amp;hellip;$$ or \\[&amp;hellip;\\] as delimiters.
+Here&amp;rsquo;s an example Markdown content:
+When \\( a \ne 0 \\), there are two solutions to $$ ax^2 + bx + c = 0 $$ and they are: \\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} \\] Output:</description>
+    </item>
+    
+    <item>
+      <title>Syntax Highlighting</title>
+      <link>https://ruiqiliu.me/docs/syntax-highlighting/</link>
+      <pubDate>Wed, 27 Sep 2017 12:00:00 +0600</pubDate>
+      
+      <guid>https://ruiqiliu.me/docs/syntax-highlighting/</guid>
+      <description>Hugo uses Chroma as it&amp;rsquo;s built-in syntax-highlighter.
+For detailed information about Syntax Highlighting in Hugo, check the Hugo&amp;rsquo;s Syntax Highlighting Documentation.</description>
+    </item>
+    
+    <item>
+      <title>Authors Setup Guide</title>
+      <link>https://ruiqiliu.me/docs/authors/</link>
+      <pubDate>Tue, 26 Sep 2017 06:00:00 +0600</pubDate>
+      
+      <guid>https://ruiqiliu.me/docs/authors/</guid>
+      <description>Minimo supports multiple authors for your site. Just make sure you have the following configuration in your site&amp;rsquo;s config.toml:
+[taxonomies] author = &amp;#34;authors&amp;#34; Minimo treats Authors as a Hugo Taxonomy.
+Author&amp;rsquo;s Profile For adding an author to your site:
+ Create data/authors folder in your site&amp;rsquo;s root directory Create a file with the filename format: &amp;lt;username&amp;gt;.toml  Now, add information about the author using the structure below:
+/data/authors/muniftanjim.toml
+id = &amp;#34;muniftanjim&amp;#34; [email] username = &amp;#34;muniftanjim&amp;#34; host = &amp;#34;gmail.</description>
+    </item>
+    
+    <item>
+      <title>Introducing Lanyon</title>
+      <link>https://ruiqiliu.me/post/2014-01-02-introducing-lanyon/</link>
+      <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruiqiliu.me/post/2014-01-02-introducing-lanyon/</guid>
+      <description>Lanyon is an unassuming Jekyll theme that places content first by tucking away navigation in a hidden drawer. It&amp;rsquo;s based on Poole, the Jekyll butler.
+Built on Poole Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by @mdo. Poole, and every theme built on it (like Lanyon here) includes the following:
+ Complete Jekyll setup included (layouts, config, 404, RSS feed, posts, and example page) Mobile friendly design and development Easily scalable text and component sizing with rem units in the CSS Support for a wide gamut of HTML elements Related posts (time-based, because Jekyll) below each post Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)  Lanyon features In addition to the features of Poole, Lanyon adds the following:</description>
+    </item>
+    
+    <item>
+      <title>Example content</title>
+      <link>https://ruiqiliu.me/post/2014-01-01-example-content/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruiqiliu.me/post/2014-01-01-example-content/</guid>
+      <description>Howdy! This is an example blog post that shows several types of HTML content supported in this theme.  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+ Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo.</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s Jekyll?</title>
+      <link>https://ruiqiliu.me/post/2013-12-31-whats-jekyll/</link>
+      <pubDate>Tue, 31 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruiqiliu.me/post/2013-12-31-whats-jekyll/</guid>
+      <description>Jekyll is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From the project&amp;rsquo;s readme:
+ Jekyll is a simple, blog aware, static site generator. It takes a template directory [&amp;hellip;] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://ruiqiliu.me/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruiqiliu.me/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

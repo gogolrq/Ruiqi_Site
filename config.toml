@@ -1,9 +1,10 @@
-baseURL = "http://www.example.com"
+baseURL = "https://ruiqiliu.me/"
 title = "Ruiqi Liu"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
-
+themesDir = "themes"
 theme = "minimo"
+publishDir = "docs"
 
 disqusShortname = ""
 googleAnalytics = ""
@@ -120,7 +121,7 @@ indexName = ""
 searchApiKey = ""
 
 [taxonomies]
-author = "ruiqiliu"
+author = "muniftanjim"
 category = "categories"
 series = "series"
 tag = "tags"

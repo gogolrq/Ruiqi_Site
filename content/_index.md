@@ -1,6 +1,6 @@
 ---
 title: About
-description: About Ruiqi Liu
+description: About Ruiqi Liu (刘瑞琪)
 menu: main
 weight: -270
 ---
