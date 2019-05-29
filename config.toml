@@ -27,7 +27,7 @@ description = "Minimalist theme for Hugo"
 title404 = "Nothing's here!"
 
 [params.assets]
-favicon = "favicon.ico"
+favicon = "myicon.png"
 customCSS = ["css/custom.css"]
 customJS = ["js/custom.js"]
 gopher = "" # used in 404 template ( Generator: https://gopherize.me )
@@ -48,7 +48,7 @@ hideEntryMeta = ["page"] # boolean / array of sections
 showReadingTime = true
 showLastmod = true
 taxonomyCloudShuffle = true
-accentColor = "#ffcd00"
+accentColor = "#9db6f4" #"#ffcd00"
 hideMainMenu = false
 rtl = false
 
@@ -75,7 +75,7 @@ titleSeparator = "•"
 
 [params.social]
 codepen = "MunifTanjim"
-email = "contact@example.com"
+email = "liuruiq@iu.edu"
 facebook = "MunifTanjim"
 github = "MunifTanjim"
 gitlab = "MunifTanjim"
