@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Ruiqi Liu</title>
+    <link>https://ruiqiliu.me/page/</link>
+    <description>Recent content in Pages on Ruiqi Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 28 Sep 2017 08:00:00 +0600</lastBuildDate>
+    
+	<atom:link href="https://ruiqiliu.me/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Research</title>
+      <link>https://ruiqiliu.me/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruiqiliu.me/research/</guid>
+      <description>Identification and Estimation of Panel Data Models with Group Structures (With Zuofeng Shang, Qiankun Zhou and Yonghui Zhang, 2017, under R&amp;amp;R on Journal of Econometrics)
+ Statistical Inference on Panel Data Models: A Kernel Ridge Regression Model (With Shunan Zhao and Zuofeng Shang, 2017, under R&amp;amp;R on Journal of Business &amp;amp; Economic Statistics) arxiv.org/abs/1703.03031
+ Testing Independence And Goodness-of-fit In Linear Regression Models Allowing Non-existence Of The Mean Of The Response Variable (With Qiqing Yu, 2017)</description>
+    </item>
+    
+    <item>
+      <title>Talk</title>
+      <link>https://ruiqiliu.me/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruiqiliu.me/talk/</guid>
+      <description>To be added!</description>
+    </item>
+    
+    <item>
+      <title>Typography</title>
+      <link>https://ruiqiliu.me/typography/</link>
+      <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
+      
+      <guid>https://ruiqiliu.me/typography/</guid>
+      <description>Here is a paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Heading 2 Another one. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Heading 3 Yet another, but centered! Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Abouttest</title>
+      <link>https://ruiqiliu.me/abouttest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruiqiliu.me/abouttest/</guid>
+      <description>Mínimo is a Spanish word that roughly translate to Minimal.
+Minimo is a minimalist theme for Hugo.
+Minimo keeps the focus on your content and lets it shine!</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://ruiqiliu.me/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruiqiliu.me/teaching/</guid>
+      <description> As an Instructor   Differential Calculus Fall 2015   Integral Calculus Spring 2016   Ordinary Differential Equation Fall 2017   Statistical Theory Spring 2019   Introduction to Statistics Spring 2019   As a Teaching Assistant   Elementary Statistics Fall 2013, Spring 2014, Fall 2016, Spring 2017   Integral Calculus Spring 2016   Mathematics in Acton Fall 2014, Spring 2015   Probability with Statistical Methods Fall 2017   </description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://ruiqiliu.me/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruiqiliu.me/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

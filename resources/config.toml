@@ -1,0 +1,11 @@
+baseURL = "https://ruiqiliu.me/"
+languageCode = "en-us"
+themesDir = "themes"
+title = "Ruiqi Liu's Website"
+canonifyURLs = true
+enableEmoji = true
+googleAnalytics = "UA-XXXXXX-1"
+theme = "lanyon"
+publishDir = "docs"
+PygmentsCodeFences = true
+PygmentsStyle = "rrt"
