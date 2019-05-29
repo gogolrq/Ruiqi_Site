@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ruiqi Liu&#39;s Website</title>
+    <link>https://ruiqiliu.me/posts/</link>
+    <description>Recent content in Posts on Ruiqi Liu&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ruiqiliu.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R_hugo</title>
+      <link>https://ruiqiliu.me/posts/r_hugo/</link>
+      <pubDate>Fri, 17 May 2019 08:02:19 -0400</pubDate>
+      
+      <guid>https://ruiqiliu.me/posts/r_hugo/</guid>
+      <description>set.seed(1) summary(cars) x=rnorm(100) y=3*x+1 lm(y~x)</description>
+    </item>
+    
+    <item>
+      <title>Using MathJax in Hugo</title>
+      <link>https://ruiqiliu.me/posts/render_math_using_mathjax/</link>
+      <pubDate>Thu, 16 May 2019 16:33:15 +0000</pubDate>
+      
+      <guid>https://ruiqiliu.me/posts/render_math_using_mathjax/</guid>
+      <description>Examples Inline math: $\sqrt{3x-1}+(1+x)^2$.
+Display math: \begin{align} (x+2)^2 &amp;amp;= x^2+2x+4\newline &amp;amp;=(x+1)^2+3 \end{align}
+Issue with Subscript After enabling MathJax, any math entered between proper markers (see the MathJax documentation) will be processed and typeset in the web page. One issue that comes up, however, with Markdown is that the underscore character &amp;ldquo;_&amp;rdquo; is interpreted by Markdown as a way to wrap text in emph blocks while LaTeX (MathJax) interprets the underscore as a way to create a subscript.</description>
+    </item>
+    
+  </channel>
+</rss>
