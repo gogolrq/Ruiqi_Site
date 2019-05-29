@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>authors on Ruiqi Liu</title>
-    <link>https://ruiqiliu.me/tags/authors/</link>
+    <link>https://ruiqiliu.com/tags/authors/</link>
     <description>Recent content in authors on Ruiqi Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 26 Sep 2017 06:00:00 +0600</lastBuildDate>
     
-	<atom:link href="https://ruiqiliu.me/tags/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ruiqiliu.com/tags/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Authors Setup Guide</title>
-      <link>https://ruiqiliu.me/docs/authors/</link>
+      <link>https://ruiqiliu.com/docs/authors/</link>
       <pubDate>Tue, 26 Sep 2017 06:00:00 +0600</pubDate>
       
-      <guid>https://ruiqiliu.me/docs/authors/</guid>
+      <guid>https://ruiqiliu.com/docs/authors/</guid>
       <description>Minimo supports multiple authors for your site. Just make sure you have the following configuration in your site&amp;rsquo;s config.toml:
 [taxonomies] author = &amp;#34;authors&amp;#34; Minimo treats Authors as a Hugo Taxonomy.
 Author&amp;rsquo;s Profile For adding an author to your site:

@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ruiqi Liu</title>
-    <link>https://ruiqiliu.me/tags/</link>
+    <link>https://ruiqiliu.com/tags/</link>
     <description>Recent content in Tags on Ruiqi Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 27 Feb 2018 18:00:00 +0600</lastBuildDate>
     
-	<atom:link href="https://ruiqiliu.me/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ruiqiliu.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Configuration</title>
-      <link>https://ruiqiliu.me/tags/config/</link>
+      <link>https://ruiqiliu.com/tags/config/</link>
       <pubDate>Tue, 27 Feb 2018 18:00:00 +0600</pubDate>
       
-      <guid>https://ruiqiliu.me/tags/config/</guid>
+      <guid>https://ruiqiliu.com/tags/config/</guid>
       <description></description>
     </item>
     
     <item>
       <title>chroma</title>
-      <link>https://ruiqiliu.me/tags/chroma/</link>
+      <link>https://ruiqiliu.com/tags/chroma/</link>
       <pubDate>Wed, 27 Sep 2017 12:00:00 +0600</pubDate>
       
-      <guid>https://ruiqiliu.me/tags/chroma/</guid>
+      <guid>https://ruiqiliu.com/tags/chroma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pygments</title>
-      <link>https://ruiqiliu.me/tags/pygments/</link>
+      <link>https://ruiqiliu.com/tags/pygments/</link>
       <pubDate>Wed, 27 Sep 2017 12:00:00 +0600</pubDate>
       
-      <guid>https://ruiqiliu.me/tags/pygments/</guid>
+      <guid>https://ruiqiliu.com/tags/pygments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>authors</title>
-      <link>https://ruiqiliu.me/tags/authors/</link>
+      <link>https://ruiqiliu.com/tags/authors/</link>
       <pubDate>Tue, 26 Sep 2017 06:00:00 +0600</pubDate>
       
-      <guid>https://ruiqiliu.me/tags/authors/</guid>
+      <guid>https://ruiqiliu.com/tags/authors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Opengraph</title>
-      <link>https://ruiqiliu.me/tags/og/</link>
+      <link>https://ruiqiliu.com/tags/og/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ruiqiliu.me/tags/og/</guid>
+      <guid>https://ruiqiliu.com/tags/og/</guid>
       <description></description>
     </item>
     
