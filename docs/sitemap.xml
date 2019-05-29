@@ -34,10 +34,13 @@
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://ruiqiliu.me/miscellaneous/</loc>
   </url>
   
   <url>
+=======
+>>>>>>> 3f505f9bd7d539982c663c8f33676949c02224ab
     <loc>https://ruiqiliu.me/fixed/about/</loc>
   </url>
   
@@ -138,12 +141,21 @@
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://ruiqiliu.me/muniftanjim/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ruiqiliu.me/tags/og/</loc>
+=======
+    <loc>https://ruiqiliu.me/tags/og/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ruiqiliu.me/ruiqiliu/</loc>
+    <priority>0</priority>
+>>>>>>> 3f505f9bd7d539982c663c8f33676949c02224ab
   </url>
   
   <url>

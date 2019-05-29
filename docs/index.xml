@@ -62,6 +62,7 @@ Minimo keeps the focus on your content and lets it shine!</description>
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>Miscellaneous</title>
       <link>https://ruiqiliu.me/miscellaneous/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -71,6 +72,8 @@ Minimo keeps the focus on your content and lets it shine!</description>
     </item>
     
     <item>
+=======
+>>>>>>> 3f505f9bd7d539982c663c8f33676949c02224ab
       <title>About</title>
       <link>https://ruiqiliu.me/fixed/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
