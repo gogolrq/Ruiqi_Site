@@ -52,11 +52,6 @@
   </url>
   
   <url>
-    <loc>https://ruiqiliu.com/tags/config/</loc>
-    <lastmod>2018-02-27T18:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ruiqiliu.com/docs/mathjax-support/</loc>
     <lastmod>2018-02-27T18:00:00+06:00</lastmod>
   </url>
@@ -69,6 +64,18 @@
   
   <url>
     <loc>https://ruiqiliu.com/categories/features/</loc>
+    <lastmod>2018-02-27T18:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ruiqiliu.com/tags/math/</loc>
+    <lastmod>2018-02-27T18:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ruiqiliu.com/tags/tex/</loc>
     <lastmod>2018-02-27T18:00:00+06:00</lastmod>
     <priority>0</priority>
   </url>
@@ -91,8 +98,8 @@
   </url>
   
   <url>
-    <loc>https://ruiqiliu.com/tags/pygments/</loc>
-    <lastmod>2017-09-27T12:00:00+06:00</lastmod>
+    <loc>https://ruiqiliu.com/tags/syntax-highlight/</loc>
+    <lastmod>2017-10-11T17:30:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -102,7 +109,24 @@
   </url>
   
   <url>
-    <loc>https://ruiqiliu.com/tags/authors/</loc>
+    <loc>https://ruiqiliu.com/tags/configuration/</loc>
+    <lastmod>2017-10-11T17:30:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ruiqiliu.com/docs/typography/</loc>
+    <lastmod>2017-10-11T17:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruiqiliu.com/tags/example/</loc>
+    <lastmod>2017-10-11T17:30:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ruiqiliu.com/tags/markdown/</loc>
     <lastmod>2017-10-11T17:30:00+06:00</lastmod>
     <priority>0</priority>
   </url>
@@ -130,6 +154,10 @@
   
   <url>
     <loc>https://ruiqiliu.com/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ruiqiliu.com/tags/config/</loc>
   </url>
   
   <url>

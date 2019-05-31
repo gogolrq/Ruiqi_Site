@@ -5,7 +5,7 @@ authors: ["minimo"]
 categories:
   - features
 tags:
-  - pygments
+  - syntax-highlight
   - chroma
 slug: syntax-highlighting
 ---

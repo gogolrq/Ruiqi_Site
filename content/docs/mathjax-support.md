@@ -5,7 +5,8 @@ authors: ["minimo"]
 categories:
   - features
 tags:
-  - config
+  - tex
+  - math
 slug: mathjax-support
 mathjax: true
 ---

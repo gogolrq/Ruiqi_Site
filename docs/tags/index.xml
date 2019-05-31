@@ -11,11 +11,20 @@
     
     
     <item>
-      <title>Configuration</title>
-      <link>https://ruiqiliu.com/tags/config/</link>
+      <title>math</title>
+      <link>https://ruiqiliu.com/tags/math/</link>
       <pubDate>Tue, 27 Feb 2018 18:00:00 +0600</pubDate>
       
-      <guid>https://ruiqiliu.com/tags/config/</guid>
+      <guid>https://ruiqiliu.com/tags/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tex</title>
+      <link>https://ruiqiliu.com/tags/tex/</link>
+      <pubDate>Tue, 27 Feb 2018 18:00:00 +0600</pubDate>
+      
+      <guid>https://ruiqiliu.com/tags/tex/</guid>
       <description></description>
     </item>
     
@@ -29,20 +38,47 @@
     </item>
     
     <item>
-      <title>pygments</title>
-      <link>https://ruiqiliu.com/tags/pygments/</link>
+      <title>syntax-highlight</title>
+      <link>https://ruiqiliu.com/tags/syntax-highlight/</link>
       <pubDate>Wed, 27 Sep 2017 12:00:00 +0600</pubDate>
       
-      <guid>https://ruiqiliu.com/tags/pygments/</guid>
+      <guid>https://ruiqiliu.com/tags/syntax-highlight/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>authors</title>
-      <link>https://ruiqiliu.com/tags/authors/</link>
+      <title>Configuration</title>
+      <link>https://ruiqiliu.com/tags/configuration/</link>
       <pubDate>Tue, 26 Sep 2017 06:00:00 +0600</pubDate>
       
-      <guid>https://ruiqiliu.com/tags/authors/</guid>
+      <guid>https://ruiqiliu.com/tags/configuration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>example</title>
+      <link>https://ruiqiliu.com/tags/example/</link>
+      <pubDate>Tue, 26 Sep 2017 06:00:00 +0600</pubDate>
+      
+      <guid>https://ruiqiliu.com/tags/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://ruiqiliu.com/tags/markdown/</link>
+      <pubDate>Tue, 26 Sep 2017 06:00:00 +0600</pubDate>
+      
+      <guid>https://ruiqiliu.com/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Configuration</title>
+      <link>https://ruiqiliu.com/tags/config/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruiqiliu.com/tags/config/</guid>
       <description></description>
     </item>
     
