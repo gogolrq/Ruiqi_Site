@@ -48,7 +48,7 @@ hideEntryMeta = ["page"] # boolean / array of sections
 showReadingTime = true
 showLastmod = true
 taxonomyCloudShuffle = true
-accentColor = "#9db6f4" #"#ffcd00"
+accentColor = "#00BFFF" #"#ffcd00"
 hideMainMenu = false
 rtl = false
 
@@ -77,7 +77,7 @@ titleSeparator = "•"
 codepen = "MunifTanjim"
 email = "liuruiq@iu.edu"
 facebook = "MunifTanjim"
-github = "MunifTanjim"
+github = "gogolrq"
 gitlab = "MunifTanjim"
 instagram = "MunifTanjim"
 linkedin = "muniftanjim"
