@@ -1,7 +1,7 @@
 # About Widget config
 [about]
 title = ""                            # default: .Site.Title
-description = "A Personal Website"                      # default: .Site.Params.info.description
+description = " "                      # default: .Site.Params.info.description
 logo = "/images/photo.jpg"             # default: "/images/logo.png"
 
 # Breadcrumbs Widget config

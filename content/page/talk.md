@@ -1,6 +1,5 @@
 ---
 title: Talk
-menu: main
 weight: -250
 ---
 
