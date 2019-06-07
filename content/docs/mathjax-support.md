@@ -7,6 +7,7 @@ categories:
 tags:
   - tex
   - math
+  - code
 slug: mathjax-support
 mathjax: true
 ---

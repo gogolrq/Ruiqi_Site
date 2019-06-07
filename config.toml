@@ -34,8 +34,8 @@ gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
 prefix = ""
-holder = "<a href='https://minimo.netlify.com/'>Minimo</a> Theme for <a href='https://gohugo.io/'>Hugo</a>"
-startYear = "2017"
+holder = "<a href='/'><span style='font-style:normal;'>Ruiqi Liu</span></a>. <span style='font-style:normal;'>All rights reserved</span>."
+startYear = ""
 suffix = ""
 
 [params.settings]
@@ -83,7 +83,7 @@ instagram = "MunifTanjim"
 linkedin = "muniftanjim"
 twitter = "MunifTanjim"
 telegram = "MunifTanjim"
-google_scholar = "qc6CJjYAAAAJ"
+google_scholar = "8ClnbmIAAAAJ"
 youtube = "UCT-U0rNerYxItGcuoPX-WYA"
 
 [params.comments]

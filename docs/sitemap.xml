@@ -63,6 +63,12 @@
   </url>
   
   <url>
+    <loc>https://ruiqiliu.com/tags/code/</loc>
+    <lastmod>2018-02-27T18:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ruiqiliu.com/categories/features/</loc>
     <lastmod>2018-02-27T18:00:00+06:00</lastmod>
     <priority>0</priority>
@@ -83,34 +89,6 @@
   <url>
     <loc>https://ruiqiliu.com/page/</loc>
     <lastmod>2017-09-28T08:00:00+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ruiqiliu.com/docs/syntax-highlighting/</loc>
-    <lastmod>2017-09-27T12:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ruiqiliu.com/tags/chroma/</loc>
-    <lastmod>2017-09-27T12:00:00+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ruiqiliu.com/tags/syntax-highlight/</loc>
-    <lastmod>2017-10-11T17:30:00+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ruiqiliu.com/docs/authors/</loc>
-    <lastmod>2017-10-11T17:30:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ruiqiliu.com/tags/configuration/</loc>
-    <lastmod>2017-10-11T17:30:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   

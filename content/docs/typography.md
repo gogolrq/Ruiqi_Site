@@ -8,7 +8,7 @@ categories:
 tags:
   - markdown
   - example
-  - syntax-highlight
+  - code
 slug: typography
 ---
 Here is a paragraph. **Lorem ipsum _dolor_ sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

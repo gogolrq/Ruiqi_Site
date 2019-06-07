@@ -11,6 +11,15 @@
     
     
     <item>
+      <title>code</title>
+      <link>https://ruiqiliu.com/tags/code/</link>
+      <pubDate>Tue, 27 Feb 2018 18:00:00 +0600</pubDate>
+      
+      <guid>https://ruiqiliu.com/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>math</title>
       <link>https://ruiqiliu.com/tags/math/</link>
       <pubDate>Tue, 27 Feb 2018 18:00:00 +0600</pubDate>
@@ -25,33 +34,6 @@
       <pubDate>Tue, 27 Feb 2018 18:00:00 +0600</pubDate>
       
       <guid>https://ruiqiliu.com/tags/tex/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>chroma</title>
-      <link>https://ruiqiliu.com/tags/chroma/</link>
-      <pubDate>Wed, 27 Sep 2017 12:00:00 +0600</pubDate>
-      
-      <guid>https://ruiqiliu.com/tags/chroma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>syntax-highlight</title>
-      <link>https://ruiqiliu.com/tags/syntax-highlight/</link>
-      <pubDate>Wed, 27 Sep 2017 12:00:00 +0600</pubDate>
-      
-      <guid>https://ruiqiliu.com/tags/syntax-highlight/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Configuration</title>
-      <link>https://ruiqiliu.com/tags/configuration/</link>
-      <pubDate>Tue, 26 Sep 2017 06:00:00 +0600</pubDate>
-      
-      <guid>https://ruiqiliu.com/tags/configuration/</guid>
       <description></description>
     </item>
     
