@@ -1,6 +1,7 @@
 ---
 title: Teaching
 menu: main
+Description: Teaching
 weight: -210
 ---
 ##### As an Instructor
