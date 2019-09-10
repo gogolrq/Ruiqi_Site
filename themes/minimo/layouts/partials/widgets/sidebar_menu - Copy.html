@@ -10,7 +10,7 @@
 {{- $items := ( index .Site.Menus $menu ) -}}
 
 {{- if $items -}}
-<section class='widget widget-about sep-after'>
+<section class='widget widget-sidebar_menu sep-after'>
   {{- with $config.title -}}
   <header>
     <h4 class='title widget-title'> 
@@ -28,9 +28,6 @@
       </ul>
     </div>
   </nav>
-</section>
-<section class='widget widget-sidebar_menu sep-after'>
-
 </section>
 
 {{- end -}}

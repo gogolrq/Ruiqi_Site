@@ -58,7 +58,8 @@ enable = true
 [params.widgets]
 header = []
 homepage = []
-sidebar = ["about","sidebar_menu","taxonomy_cloud"]
+#sidebar = ["about","sidebar_menu","taxonomy_cloud"]
+sidebar = ["about","sidebar_menu"]
 footer = ["social_menu"]
 
 [params.opengraph.facebook]
