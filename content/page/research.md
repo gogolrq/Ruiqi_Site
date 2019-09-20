@@ -8,9 +8,8 @@ weight: -260
 - Statistical Inference on Panel Data Models: A Kernel Ridge Regression Model (With Shunan Zhao and Zuofeng Shang, 2019, Accepted for publication on <i>Journal of Business & Economic Statistics</i>)  <a href="https://arxiv.org/abs/1703.03031
 " target="_blank"><span style="color:#00BFFF">**Preprint**</span></a>
 
-##### Paper under Revision & Resubmission
 
-- Identification and Estimation in Panel Models with Overspecified Number of Groups (With Zuofeng Shang, Qiankun Zhou and Yonghui Zhang, 2017, under 2nd-Round R&R on <i>Journal of Econometrics</i>) <a href="https://www.dropbox.com/s/2oovczchs312h95/Revision_2ndRound_07292019_Final_Ruiqi.pdf?dl=0
+- Identification and Estimation in Panel Models with Overspecified Number of Groups (With Zuofeng Shang, Qiankun Zhou and Yonghui Zhang, 2019, Conditionally Accepted by <i>Journal of Econometrics</i>) <a href="https://www.dropbox.com/s/2oovczchs312h95/Revision_2ndRound_07292019_Final_Ruiqi.pdf?dl=0
 " target="_blank"><span style="color:#00BFFF">**Preprint**</span></a>
 
 
