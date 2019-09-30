@@ -5,7 +5,8 @@ Description: Research
 weight: -260
 ---
 ##### Publication
-- Statistical Inference on Panel Data Models: A Kernel Ridge Regression Method (With Shunan Zhao and Zuofeng Shang, 2019, Accepted for publication on <i>Journal of Business & Economic Statistics</i>)  <a href="https://arxiv.org/abs/1703.03031
+- Statistical Inference on Panel Data Models: A Kernel Ridge Regression Method (With Shunan Zhao and Zuofeng Shang, 2019, Accepted for publication on <i>Journal of Business & Economic Statistics</i>) <a href="https://amstat.tandfonline.com/doi/abs/10.1080/07350015.2019.1660176?journalCode=ubes20#.XZJLoUZKiHs
+" target="_blank"><span style="color:#00BFFF">**Published Version**</span></a> & <a href="https://arxiv.org/abs/1703.03031
 " target="_blank"><span style="color:#00BFFF">**Preprint**</span></a>
 
 
