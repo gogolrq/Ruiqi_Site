@@ -16,8 +16,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ruiqiliu.com/research/</guid>
-      <description>Publication  Statistical Inference on Panel Data Models: A Kernel Ridge Regression Method (With Shunan Zhao and Zuofeng Shang, 2019, Accepted for publication on Journal of Business &amp;amp; Economic Statistics) Published Version &amp;amp; Preprint
- Identification and Estimation in Panel Models with Overspecified Number of Groups (With Zuofeng Shang, Qiankun Zhou and Yonghui Zhang, 2019, Accepted for publication on Journal of Econometrics) Preprint
+      <description>Publication  Statistical Inference on Panel Data Models: A Kernel Ridge Regression Method (With Shunan Zhao and Zuofeng Shang, 2019, Journal of Business &amp;amp; Economic Statistics, In Press) Published Version &amp;amp; Preprint
+ Identification and Estimation in Panel Models with Overspecified Number of Groups (With Zuofeng Shang, Qiankun Zhou and Yonghui Zhang, 2019, Journal of Econometrics, In Press) Published Version &amp;amp; Preprint
   Manuscripts Submitted or in Preparation  Testing Independence and Goodness-of-fit in Linear Regression Models Allowing Non-existence of the Mean of the Response Variable (With Qiqing Yu, 2017)</description>
     </item>
     
@@ -54,11 +54,11 @@ Minimo keeps the focus on your content and lets it shine!</description>
     
     <item>
       <title>JMP</title>
-      <link>https://ruiqiliu.com/mathjax-support/</link>
+      <link>https://ruiqiliu.com/jmp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ruiqiliu.com/mathjax-support/</guid>
-      <description>1. Statistical Inference on Partially Linear Panel Model under Unobserved Linearity Abstract: A new statistical procedure, based on a modified spline basis, is proposed to identify the linear components in the panel data model with fixed effects. Under some mild assumptions, the proposed procedure is shown to consistently estimate the underlying regression function, correctly select the linear components, and effectively conduct the statistical inference. When compared to existing methods for detection of linearity in the panel model, our approach is demonstrated to be theoretically justified as well as practically convenient.</description>
+      <guid>https://ruiqiliu.com/jmp/</guid>
+      <description>1. Statistical Inference on Partially Linear Panel Model under Unobserved Linearity (Job Market Paper) Abstract: A new statistical procedure, based on a modified spline basis, is proposed to identify the linear components in the panel data model with fixed effects. Under some mild assumptions, the proposed procedure is shown to consistently estimate the underlying regression function, correctly select the linear components, and effectively conduct the statistical inference. When compared to existing methods for detection of linearity in the panel model, our approach is demonstrated to be theoretically justified as well as practically convenient.</description>
     </item>
     
     <item>
