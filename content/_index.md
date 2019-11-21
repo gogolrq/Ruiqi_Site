@@ -5,7 +5,7 @@ menu: main
 weight: -270
 ---
 
-Welcome! My name is Ruiqi Liu. I am a Statistician, Econometrician and Data Scientist.
+Welcome! My name is Ruiqi Liu. I am a **Statistician**, **Econometrician** and **Data Scientist**.
 <p style='text-align: justify;'>
 I am currently a postdoctoral fellow working with <a href="https://scholar.google.com/citations?user=5iA1iRoAAAAJ&hl=en
 " target="_blank"><span style="color:#00BFFF">**Dr. Zuofeng Shang**</span></a> in the Department of Mathematical Sciences at <a href="https://math.iupui.edu/
@@ -20,6 +20,7 @@ My research interests include **Semi/Nonparametric Methods**, **Econometric Theo
 
 A detailed **CV** can be found <a href="https://www.dropbox.com/s/akub1e15q87lezk/RuiqiLiu_CV.pdf?dl=0" target="_blank"><span style="color:#00BFFF">**HERE**</span></a>.
 
+<p style='text-align: justify;'>
 **Job Market**: I will be available for interviews at the ASSA Annual Meeting during January 3-5, 2020 in San Diego, CA.
 
 

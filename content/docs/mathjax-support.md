@@ -10,6 +10,7 @@ tags:
   - code
 slug: mathjax-support
 mathjax: true
+emoji: true
 ---
 
 For enabling MathJax, add this to your content's frontmatter:
@@ -19,7 +20,7 @@ For enabling MathJax, add this to your content's frontmatter:
 mathjax: true
 ---
 ```
-
+ :bowtie:
 ## MathJax Syntax for Markdown
 
 In your Markdown content, use `\\(`...`\\)` delimiters for in-line mathematics.

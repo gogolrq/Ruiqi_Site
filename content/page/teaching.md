@@ -4,7 +4,7 @@ menu: main
 Description: Teaching
 weight: -210
 ---
-##### at Binghamton University
+##### Binghamton University
 <table>
   <tr>
     <td width="500px">Elementary Statistics</td>
@@ -39,7 +39,7 @@ weight: -210
   </tr>
 </table>
 
-##### at IUPUI
+##### IUPUI
 <table>
 
    <tr>
