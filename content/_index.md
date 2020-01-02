@@ -5,7 +5,7 @@ menu: main
 weight: -270
 ---
 
-Welcome! My name is Ruiqi Liu. I am a **Statistician**, **Econometrician** and **Data Scientist**.
+Welcome! 
 <p style='text-align: justify;'>
 I am currently a postdoctoral fellow working with <a href="https://scholar.google.com/citations?user=5iA1iRoAAAAJ&hl=en
 " target="_blank"><span style="color:#00BFFF">**Dr. Zuofeng Shang**</span></a> in the Department of Mathematical Sciences at <a href="https://math.iupui.edu/
