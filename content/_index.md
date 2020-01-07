@@ -20,8 +20,7 @@ My research interests include **Semi/Nonparametric Methods**, **Econometric Theo
 
 A detailed **CV** can be found <a href="https://www.dropbox.com/s/akub1e15q87lezk/RuiqiLiu_CV.pdf?dl=0" target="_blank"><span style="color:#00BFFF">**HERE**</span></a>.
 
-<p style='text-align: justify;'>
-**Job Market**: I will be available for interviews at the ASSA Annual Meeting during January 3-5, 2020 in San Diego, CA.
+
 
 
 **Contact Information**: Department of Mathematical Sciences, IUPUI

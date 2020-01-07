@@ -11,7 +11,7 @@ weight: -210
     <td align="left">Fall 2013, Spring 2014 Fall 2016, Spring 2017</td>
   </tr>
   <tr>
-    <td width="500px">Mathematics in Acton</td>
+    <td width="500px">Mathematics in Action</td>
     <td align="left">Fall 2014, Spring 2015</td>
   </tr>
   <tr>

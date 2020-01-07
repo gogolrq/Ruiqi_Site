@@ -2,7 +2,6 @@
 
 title: JMP
 
-menu: main
 
 weight: -210
 
