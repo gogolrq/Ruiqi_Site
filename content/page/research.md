@@ -12,7 +12,7 @@ weight: -260
 " target="_blank"><span style="color:#00BFFF">**Preprint**</span></a>
 
 
-- Identification and Estimation in Panel Models with Overspecified Number of Groups (With Zuofeng Shang, Qiankun Zhou and Yonghui Zhang, 2019, <i>Journal of Econometrics</i>, In Press) <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304407619302118" target="_blank"><span style="color:#00BFFF">**Published Version**</span></a> & <a href="https://www.dropbox.com/s/3plhifghgqcyn20/Revision_3ndRound_09232019_Final.pdf?dl=0
+- Identification and Estimation in Panel Models with Overspecified Number of Groups (With Zuofeng Shang, Qiankun Zhou and Yonghui Zhang, 2020. <i>Journal of Econometrics</i>, 215, 574-590.) <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304407619302118" target="_blank"><span style="color:#00BFFF">**Published Version**</span></a> & <a href="https://www.dropbox.com/s/3plhifghgqcyn20/Revision_3ndRound_09232019_Final.pdf?dl=0
 " target="_blank"><span style="color:#00BFFF">**Preprint**</span></a>
 
 - A Consistent Test of Independence and Goodness-of-fit in Linear Regression Models  (with Qiqing Yu, 2020,   <i>Communications in Statistics - Simulation and Computation</i>, In Press)
@@ -32,4 +32,4 @@ weight: -260
 
 - Statistical Inference on Partially Linear Panel Model under Unobserved Linearity (With Ben Boukai and Zuofeng Shang, 2019) <a href="https://arxiv.org/abs/1911.08830" target="_blank"><span style="color:#00BFFF">**Preprint**</span></a>
 
-- Deep Instrument Variables Estimator (With Zuofeng Shang and Guang Cheng, 2019, Forthcoming)
+- On Deep Instrument Variables Estimate (With Zuofeng Shang and Guang Cheng, 2020) <a href="https://arxiv.org/abs/2004.14954" target="_blank"><span style="color:#00BFFF">**Preprint**</span></a>
