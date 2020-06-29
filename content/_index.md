@@ -16,8 +16,10 @@ I am currently a postdoctoral fellow working with <a href="https://scholar.googl
 " target="_blank"><span style="color:#00BFFF">**Sun Yat-sen University**</span></a> in 2013. I will be joining the Department of Mathematics and Statistics at <a href="https://www.depts.ttu.edu/math/
 " target="_blank"><span style="color:#00BFFF">**Texas Tech University**</span></a> in the fall.
 
-<p style='text-align: justify;'>
-My research interests include **Semi/Nonparametric Methods**, **Econometric Theory**, **Panel Data Models**, **Statistical Machine/Deep Learning** and **Graph Network Models**.
+<!--<p style='text-align: justify;'>
+My research interests include **Semi/Nonparametric Methods**, **Econometric Theory**, **Panel Data Models**, **Statistical Machine/Deep Learning** and **Graph Network Models**.-->
+
+**Research Interests**: Semi/Nonparametric Methods, Econometric Theory, Panel Data Models, Statistical Machine/Deep Learning and Graph Network Models.
 
 A detailed **CV** can be found <a href="https://www.dropbox.com/s/akub1e15q87lezk/RuiqiLiu_CV.pdf?dl=0" target="_blank"><span style="color:#00BFFF">**HERE**</span></a>.
 

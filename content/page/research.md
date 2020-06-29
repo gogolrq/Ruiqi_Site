@@ -19,7 +19,7 @@ weight: -260
 
 
 
-##### Completed Manuscripts
+##### Preprints
 
 
 - Testing Community Structures for Hypergraphs (Mingao Yuan, **Ruiqi Liu**, Yang Feng and Zuofeng Shang, 2018) <a href="https://arxiv.org/abs/1810.04617
