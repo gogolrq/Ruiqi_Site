@@ -18,8 +18,8 @@ I am currently a postdoctoral fellow working with <a href="https://scholar.googl
 
 <!--<p style='text-align: justify;'>
 My research interests include **Semi/Nonparametric Methods**, **Econometric Theory**, **Panel Data Models**, **Statistical Machine/Deep Learning** and **Graph Network Models**.-->
-
-**Research Interests**: Semi/Nonparametric Methods, Econometric Theory, Panel Data Models, Statistical Machine/Deep Learning and Graph Network Models.
+<p style='text-align: justify;'>
+**Research Interests**: Semi/Nonparametric Methods, Econometric Theory, Panel Data Models, Statistical Machine/Deep Learning, Graph Network Models
 
 A detailed **CV** can be found <a href="https://www.dropbox.com/s/akub1e15q87lezk/RuiqiLiu_CV.pdf?dl=0" target="_blank"><span style="color:#00BFFF">**HERE**</span></a>.
 
