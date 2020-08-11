@@ -9,8 +9,8 @@ Welcome!
 <p style='text-align: justify;'>
 I am an Assistant Professor in the Department of Mathematics and Statistics at <a href="https://www.depts.ttu.edu/math/
 " target="_blank"><span style="color:#00BFFF">**Texas Tech University**</span></a>.
-From 2018 to 2020, I broadened my research interests as a postdoctoral fellow working with <a href="https://scholar.google.com/citations?user=5iA1iRoAAAAJ&hl=en
-" target="_blank"><span style="color:#00BFFF">**Dr. Zuofeng Shang**</span></a> at <a href="https://math.iupui.edu/
+From 2018 to 2020, I broadened my research interests when working with <a href="https://scholar.google.com/citations?user=5iA1iRoAAAAJ&hl=en
+" target="_blank"><span style="color:#00BFFF">**Dr. Zuofeng Shang**</span></a> as a postdoctoral fellow at <a href="https://math.iupui.edu/
 " target="_blank"><span style="color:#00BFFF">**IUPUI**</span></a>. I received my Ph.D. from <a href="https://www2.math.binghamton.edu/p/start
 " target="_blank"><span style="color:#00BFFF">**Binghamton University**</span></a> in 2018 under the supervision of <a href="https://www2.math.binghamton.edu/p/people/anton/start
 " target="_blank"><span style="color:#00BFFF">**Dr. Anton Schick**</span></a> and <a href="https://scholar.google.com/citations?user=5iA1iRoAAAAJ&hl=en
