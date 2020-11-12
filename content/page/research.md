@@ -34,3 +34,5 @@ weight: -260
 - Statistical Inference on Partially Linear Panel Model under Unobserved Linearity<br> (**Ruiqi Liu**, Ben Boukai and Zuofeng Shang, 2019) <a href="https://arxiv.org/abs/1911.08830" target="_blank"><span style="color:#00BFFF">**Preprint**</span></a>
 
 - On Deep Instrument Variables Estimate<br> (**Ruiqi Liu**, Zuofeng Shang and Guang Cheng, 2020) <a href="https://arxiv.org/abs/2004.14954" target="_blank"><span style="color:#00BFFF">**Preprint**</span></a>
+
+- A Computationally Efficient Classification Algorithm in Posterior Drift Model: Phase Transition and Minimax Adaptivity<br> (**Ruiqi Liu**, Kexuan Li and Zuofeng Shang, 2020) <a href="https://arxiv.org/abs/2011.04147" target="_blank"><span style="color:#00BFFF">**Preprint**</span></a>
