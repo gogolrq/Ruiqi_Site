@@ -36,3 +36,9 @@ weight: -260
 - On Deep Instrument Variables Estimate<br> (**Ruiqi Liu**, Zuofeng Shang and Guang Cheng, 2020) <a href="https://arxiv.org/abs/2004.14954" target="_blank"><span style="color:#00BFFF">**Preprint**</span></a>
 
 - A Computationally Efficient Classification Algorithm in Posterior Drift Model: Phase Transition and Minimax Adaptivity<br> (**Ruiqi Liu**, Kexuan Li and Zuofeng Shang, 2020) <a href="https://arxiv.org/abs/2011.04147" target="_blank"><span style="color:#00BFFF">**Preprint**</span></a>
+
+- Distributed Adaptive Nearest Neighbor Classifier: Algorithm and Theory
+<br> (**Ruiqi Liu**, Ganggang Xu and Zuofeng Shang, 2021) <a href="https://arxiv.org/abs/2105.09788" target="_blank"><span style="color:#00BFFF">**Preprint**</span></a>
+
+- Online Statistical Inference for Parameters Estimation with Linear-Equality Constraints
+<br> (**Ruiqi Liu**, Mingao Yuan and Zuofeng Shang, 2021) <a href="https://arxiv.org/abs/2105.10315" target="_blank"><span style="color:#00BFFF">**Preprint**</span></a>
