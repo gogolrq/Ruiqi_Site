@@ -6,7 +6,7 @@ weight: -210
 ---
 ##### Previous Semester
 - STAT 5378 -- Stochastic Processes
-- STAT 5378 -- Stochastic Processes
+- STAT 5376 -- Statistical Machine Leraning
 
 ##### Fall 2021
 - STAT 5328 -- Intermediate Mathematical Statistics I
