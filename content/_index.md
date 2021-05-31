@@ -17,20 +17,16 @@ From 2018 to 2020, I broadened my research interests when working with <a href="
 " target="_blank"><span style="color:#00BFFF">**Dr. Zuofeng Shang**</span></a>. Before coming to the United States, I obtained a dual Bachelor's degree in Mathematics and Management from  <a href="http://www.sysu.edu.cn/2012/en/index.htm
 " target="_blank"><span style="color:#00BFFF">**Sun Yat-sen University**</span></a> in 2013.
 
-<!--<p style='text-align: justify;'>
-My research interests include **Semi/Nonparametric Methods**, **Econometric Theory**, **Panel Data Models**, **Statistical Machine/Deep Learning** and **Graph Network Models**.-->
 <p style='text-align: justify;'>
-**Research Interests:** Semi/Nonparametric Methods, Econometrics, Panel Data Models, Statistical Machine/Deep Learning, Graph Network Models
+**Research Interests:** Semi/Nonparametric Methods, Econometrics, Statistical Machine/Deep Learning, Graph Network Models, Adaptive Classification
 
 A detailed **CV** can be found <a href="https://www.dropbox.com/s/akub1e15q87lezk/RuiqiLiu_CV.pdf?dl=0" target="_blank"><span style="color:#00BFFF">**HERE**</span></a>.
 
 
-
-
 **Contact Information:** Department of Mathematics and Statistics, Texas Tech University
-
+**Address:** 1108 Memorial Circle, Lubbock, TX 79409-1042
 **Email:** ruiqliu (at) ttu (dot) edu
-
+**Department Page:** <a href="https://www.math.ttu.edu/~ruiqliu" target="_blank"><span style="color:#00BFFF">**www.math.ttu.edu/~ruiqliu**</span></a>.
 
 > All models are wrong, but some are useful.
 > 
