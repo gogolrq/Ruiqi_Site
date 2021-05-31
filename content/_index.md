@@ -24,9 +24,9 @@ A detailed **CV** can be found <a href="https://www.dropbox.com/s/akub1e15q87lez
 
 
 **Contact Information:** Department of Mathematics and Statistics, Texas Tech University
-**Address:** 1108 Memorial Circle, Lubbock, TX 79409-1042
-**Email:** ruiqliu (at) ttu (dot) edu
-**Department Page:** <a href="https://www.math.ttu.edu/~ruiqliu" target="_blank"><span style="color:#00BFFF">**www.math.ttu.edu/~ruiqliu**</span></a>.
+**Address:** 1108 Memorial Circle, Lubbock, TX 79409-1042<br>
+**Email:** ruiqliu (at) ttu (dot) edu<br>
+**Department Page:** <a href="https://www.math.ttu.edu/~ruiqliu" target="_blank"><span style="color:#00BFFF">**www.math.ttu.edu/~ruiqliu**</span></a>
 
 > All models are wrong, but some are useful.
 > 
