@@ -18,7 +18,7 @@ weight: -260
 " target="_blank"><span style="color:#00BFFF">**Published Version**</span></a> & <a href="https://www.dropbox.com/s/7p8xpjisgbqa52n/ZLS2018_JBES_All.pdf?dl=0
 " target="_blank"><span style="color:#00BFFF">**Preprint**</span></a>
 
-- Testing Community Structures for Hypergraphs<br> (Mingao Yuan, **Ruiqi Liu**, Yang Feng and Zuofeng Shang, 2012. Annals of Statistics, to appear) <a href="https://arxiv.org/abs/1810.04617
+- Testing Community Structures for Hypergraphs<br> (Mingao Yuan, **Ruiqi Liu**, Yang Feng and Zuofeng Shang, 2021. Annals of Statistics, to appear) <a href="https://arxiv.org/abs/1810.04617
 " target="_blank"><span style="color:#00BFFF">**Preprint**</span></a>
 
 ##### Preprints
