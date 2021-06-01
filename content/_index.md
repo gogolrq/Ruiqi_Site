@@ -23,8 +23,9 @@ From 2018 to 2020, I broadened my research interests when working with <a href="
 A detailed **CV** can be found <a href="https://www.dropbox.com/s/akub1e15q87lezk/RuiqiLiu_CV.pdf?dl=0" target="_blank"><span style="color:#00BFFF">**HERE**</span></a>.
 
 
-**Contact Information:** Department of Mathematics and Statistics, Texas Tech University
-**Address:** 1108 Memorial Circle, Lubbock, TX 79409-1042<br>
+**Contact Information** <br>
+**Office:** MA 235, Department of Mathematics & Statistics<br>
+**Address:** Texas Tech University, 1108 Memorial Circle, Lubbock, TX, 79409<br>
 **Email:** ruiqliu (at) ttu (dot) edu<br>
 **Department Page:** <a href="https://www.math.ttu.edu/~ruiqliu" target="_blank"><span style="color:#00BFFF">**www.math.ttu.edu/~ruiqliu**</span></a>
 
