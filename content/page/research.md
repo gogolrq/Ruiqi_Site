@@ -40,3 +40,6 @@ weight: -260
 
 - Online Statistical Inference for Parameters Estimation with Linear-Equality Constraints
 <br> (**Ruiqi Liu**, Mingao Yuan and Zuofeng Shang, 2021) <a href="https://arxiv.org/abs/2105.10315" target="_blank"><span style="color:#00BFFF">**Preprint**</span></a>
+
+- Calibrating multi-dimensional complex ODE from noisy data via deep neural networks
+<br> (Kexuan Li, Fangfang Wang, **Ruiqi Liu**, Fan Yang and Zuofeng Shang, 2021) <a href="https://arxiv.org/abs/2106.03591" target="_blank"><span style="color:#00BFFF">**Preprint**</span></a>
