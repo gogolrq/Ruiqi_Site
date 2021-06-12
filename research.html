@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+
+<html>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--
+  The above 2 meta tags *must* come first in the <head>
+  to consistently ensure proper document rendering.
+  Any other head element should come *after* these tags.
+ -->
+<title>Ruiqi Liu</title>
+<!-- Set the base URL for all relative URLs within the document -->
+<base href="https://ruiqiliu.com/">
+
+<!--
+  Allows control over where resources are loaded from.
+  Place as early in the <head> as possible, as the tag  
+  only applies to resources that are declared after it.
+-->
+
+<!-- Short description of the document (limit to 150 characters) -->
+<!-- This content *may* be used as a part of search engine results. -->
+<meta name="description" content="a minimalistic jekyll theme for academics">
+
+<!-- Control the behavior of search engine crawling and indexing -->
+<meta name="robots" content="index,follow"><!-- All Search Engines -->
+<meta name="googlebot" content="index,follow"><!-- Google Specific -->
+
+<!-- Verify website ownership -->
+<meta name="google-site-verification" content=""><!-- Google Search Console -->
+<meta name="yandex-verification" content=""><!-- Yandex Webmasters -->
+<meta name="msvalidate.01" content=""><!-- Bing Webmaster Center -->
+<meta name="alexaVerifyID" content=""><!-- Alexa Console -->
+<meta name="p:domain_verify" content=""><!-- Pinterest Console-->
+<meta name="norton-safeweb-site-verification" content=""><!-- Norton Safe Web -->
+
+<!-- Allows control over how referrer information is passed -->
+<meta name="referrer" content="no-referrer">
+
+<!-- Disable automatic detection and formatting of possible phone numbers -->
+<meta name="format-detection" content="telephone=true">
+
+<!-- Completely opt out of DNS prefetching by setting to "off" -->
+<meta http-equiv="x-dns-prefetch-control" content="on">
+
+<!-- Geo tags -->
+<!-- meta name="ICBM" content="latitude, longitude"-->
+<!-- meta name="geo.position" content="latitude;longitude"-->
+<!-- meta name="geo.region" content="country[-state]"><Country code (ISO 3166-1): mandatory, state code (ISO 3166-2): optional; eg. content="US" / content="US-NY" -->
+<!-- meta name="geo.placename" content="city/town"><eg. content="New York City" -->
+
+<!-- Link to an external CSS file -->
+<link href="https://fonts.googleapis.com/css2?family=Parisienne&family=Courgette&family=Lobster&family=Pacifico&family=Yellowtail&family=Noto+Sans+JP:wght@400;900&family=Poppins:wght@500&family=Righteous&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="css/main.css">
+<!-- BootStrap CDN --> 
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+<script src="https://kit.fontawesome.com/32a2b2a489.js" crossorigin="anonymous"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script> 
+
+<!--  GIT TALK CDN  for comment system -->
+<!--
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script> -->
+
+
+<!-- Provides information about an author or another person -->
+<link rel="me" href="mailto:developer.tbutler@gmail.com">
+<link rel="me" href="sms:+">
+
+<!-- Open Search -->
+<!-- link rel="search" href="/open-search.xml" type="application/opensearchdescription+xml" title="Search Title" -->
+
+<!-- Feeds -->
+<!-- link rel="alternate" href="https://feeds.feedburner.com/example" type="application/rss+xml" title="RSS" -->
+<!-- link rel="alternate" href="https://example.com/feed.atom" type="application/atom+xml" title="Atom 0.3" -->
+
+<!-- For IE 10 and below -->
+<!-- Place favicon.ico in the root directory - no tag necessary -->
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/img/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/img/icons/favicon-16x16.png">
+<link rel="mask-icon" href="/assets/img/icons/safari-pinned-tab.svg" color="#5bbad5">
+
+<meta property="fb:app_id" content="">
+<meta property="og:url" content="/research.html">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Get to know what I'm up too">
+<meta property="og:image" content="">
+<meta property="og:image:alt" content="">
+<meta property="og:description" content="Get to know what I'm up too">
+<meta property="og:site_name" content="Research">
+<meta property="og:locale" content="en_US">
+<meta property="article:author" content="">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@">
+<meta name="twitter:creator" content="@">
+<meta name="twitter:url" content="/research.html">
+<meta name="twitter:title" content="Get to know what I'm up too">
+<meta name="twitter:description" content="Get to know what I'm up too">
+<meta name="twitter:image" content="">
+<meta name="twitter:image:alt" content="">
+
+<!-- Used for adding in-document CSS -->
+
+
+
+<!-- JavaScript & No-JavaScript tags -->
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+<!--
+<script>
+    $(document).ready(function() {
+        $(".toast").toast('show');
+    });
+</script> -->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js"></script>
+
+<noscript>
+  <!-- No JS alternative -->
+</noscript>
+  <body>
+    
+<nav class="navbar navbar-expand-lg glowing-border mb-4" style="font-family:Poppins;background-color:#F0F3F8;">
+   <a class="navbar-brand"><h4 style="font-family:Noto Sans JP;font-weight:600;color:#000000;">Ruiqi Liu</h4></a>
+  <button class="navbar-toggler text-black" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+  	<i class="fas fa-caret-down"></i>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+        
+              <li class="nav-item">
+                  <a href="index.html" class="nav-link" style="font-family:Poppins;color:#000000;">About</a>
+              </li>
+        
+              <li class="nav-item">
+                  <a href="research.html" class="nav-link" style="font-family:Poppins;color:#000000;">Research</a>
+              </li>
+        
+              <li class="nav-item">
+                  <a href="teaching.html" class="nav-link" style="font-family:Poppins;color:#000000;">Teaching</a>
+              </li>
+        
+              <li class="nav-item">
+                  <a href="miscellaneous.html" class="nav-link" style="font-family:Poppins;color:#000000;">Miscellaneous</a>
+              </li>
+        
+    </ul>
+    <ul class="navbar-nav  justify-content-end">
+      <li class="nav-item">
+        
+<!-- Displays Social Media Icons based on _config.yml settings -->
+<span style="color:#000000;">
+    <i> &nbsp;&nbsp; </i>
+    
+        <a class="social-link" href="https://www.researchgate.net/profile/Ruiqi-Liu-12">
+        <span style="color: #000000;">
+            <i class="fab fa-researchgate fa-lg"></i></a>
+        </span>
+    
+    
+        <a href="https://github.com/gogolrq">
+        <span style="color: #000000;">
+            <i class="fab fa-github-square fa-lg"></i></a>
+        </span>
+    
+    
+    
+        <a href="https://scholar.google.com/citations?user=8ClnbmIAAAAJ">
+        <span style="color: #000000;">
+            <i class="fab fa-google "></i></a>
+        </span>
+    
+    
+    
+     
+    <i> &nbsp;&nbsp; </i>
+</span>
+
+      </li>
+    </ul>
+  </div>
+</nav>
+
+    <div class="container">
+      
+      <div class="card border-0">
+          <div class="card-body">
+            <p class="card-text">
+                <h1 class="mx-auto" style="font-family:Courgette;">Research</h1>
+
+<h5 id="publications">Publications</h5>
+
+<ul>
+  <li>
+    <p>Identification and Estimation in Panel Models with Overspecified Number of Groups<br /> (<strong>Ruiqi Liu</strong>, Zuofeng Shang, Qiankun Zhou and Yonghui Zhang, 2020. <i>Journal of Econometrics</i>, 215, 574-590) <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304407619302118" target="_blank" class="highlighted">Published Version</a> &amp; <a href="https://www.dropbox.com/s/3plhifghgqcyn20/Revision_3ndRound_09232019_Final.pdf?dl=0 " target="_blank" class="highlighted">Preprint</a></p>
+  </li>
+  <li>
+    <p>A Consistent Test of Independence and Goodness-of-fit in Linear Regression Models<br />  (Qiqing Yu and <strong>Ruiqi Liu</strong>, 2020.   <i>Communications in Statistics - Simulation and Computation</i>, to appear) <a href="https://www.tandfonline.com/doi/abs/10.1080/03610918.2020.1728316?journalCode=lssp20" target="_blank" class="highlighted">Published Version</a></p>
+  </li>
+  <li>
+    <p>Statistical Inference on Panel Data Models: A Kernel Ridge Regression Method<br />
+(Shunan Zhao, <strong>Ruiqi Liu</strong> and Zuofeng Shang, 2021. <i>Journal of Business &amp; Economic Statistics</i>, 39, 325-337) <a href="https://amstat.tandfonline.com/doi/abs/10.1080/07350015.2019.1660176?journalCode=ubes20#.XZJLoUZKiHs " target="_blank" class="highlighted">Published Version</a> &amp; <a href="https://www.dropbox.com/s/7p8xpjisgbqa52n/ZLS2018_JBES_All.pdf?dl=0 " target="_blank" class="highlighted">Preprint</a></p>
+  </li>
+  <li>
+    <p>Testing Community Structures for Hypergraphs<br /> (Mingao Yuan, <strong>Ruiqi Liu</strong>, Yang Feng and Zuofeng Shang, 2021. Annals of Statistics, to appear) <a href="https://arxiv.org/abs/1810.04617 " target="_blank" class="highlighted">Preprint</a></p>
+  </li>
+</ul>
+
+<h5 id="preprints">Preprints</h5>
+
+<ul>
+  <li>
+    <p>Optimal Nonparametric Inference Under Quantization<br /> (<strong>Ruiqi Liu</strong>, Ganggang Xu and Zuofeng Shang, 2019)  <a href="https://arxiv.org/abs/1901.08571" target="_blank" class="highlighted">Preprint</a></p>
+  </li>
+  <li>
+    <p>Optimal Nonparametric Inference via Deep Neural Network<br /> (<strong>Ruiqi Liu</strong>, Ben Boukai and Zuofeng Shang, 2019) <a href="https://arxiv.org/abs/1902.01687" target="_blank" class="highlighted">Preprint</a></p>
+  </li>
+  <li>
+    <p>Statistical Inference on Partially Linear Panel Model under Unobserved Linearity<br /> (<strong>Ruiqi Liu</strong>, Ben Boukai and Zuofeng Shang, 2019) <a href="https://arxiv.org/abs/1911.08830" target="_blank" class="highlighted">Preprint</a></p>
+  </li>
+  <li>
+    <p>On Deep Instrument Variables Estimate<br /> (<strong>Ruiqi Liu</strong>, Zuofeng Shang and Guang Cheng, 2020) <a href="https://arxiv.org/abs/2004.14954" target="_blank" class="highlighted">Preprint</a></p>
+  </li>
+  <li>
+    <p>A Computationally Efficient Classification Algorithm in Posterior Drift Model: Phase Transition and Minimax Adaptivity<br /> (<strong>Ruiqi Liu</strong>, Kexuan Li and Zuofeng Shang, 2020) <a href="https://arxiv.org/abs/2011.04147" target="_blank" class="highlighted">Preprint</a></p>
+  </li>
+  <li>
+    <p>Distributed Adaptive Nearest Neighbor Classifier: Algorithm and Theory
+<br /> (<strong>Ruiqi Liu</strong>, Ganggang Xu and Zuofeng Shang, 2021) <a href="https://arxiv.org/abs/2105.09788" target="_blank" class="highlighted">Preprint</a></p>
+  </li>
+  <li>
+    <p>Online Statistical Inference for Parameters Estimation with Linear-Equality Constraints
+<br /> (<strong>Ruiqi Liu</strong>, Mingao Yuan and Zuofeng Shang, 2021) <a href="https://arxiv.org/abs/2105.10315" target="_blank" class="highlighted">Preprint</a></p>
+  </li>
+  <li>
+    <p>Calibrating Multi-dimensional Complex ODE from Noisy Data via Deep Neural Networks
+<br /> (Kexuan Li, Fangfang Wang, <strong>Ruiqi Liu</strong>, Fan Yang and Zuofeng Shang, 2021) <a href="https://arxiv.org/abs/2106.03591" target="_blank" class="highlighted">Preprint</a></p>
+  </li>
+</ul>
+
+
+            </p>
+            
+              <p class="card-text"><small class="text-muted">This page was last updated at 2021-06-12 07:16.</small></p>
+            
+          </div>
+      </div>
+      
+    </div>
+    <div class="navbar navbar-default navbar-fixed-bottom">
+  <div class="container">
+    <p class="navbar-text pull-left">© 2021 Ruiqi Liu. All rights reserved.
+    </p>
+    <p class="navbar-text pull-right">
+            <!-- Displays Social Media Icons based on _config.yml settings -->
+
+<span style="color: Black;">
+     
+        <a class="social-link" href="https://www.researchgate.net/profile/Ruiqi-Liu-12">
+        <span style="color: black;">
+            <i class="fab  fa-researchgate fa-lg"></i></a>
+        </span>
+    
+    
+        <a href="https://github.com/gogolrq">
+        <span style="color: black;">
+            <i class="fab fa-github-square fa-lg"></i></a>
+        </span>
+    
+    
+    
+        <a href="https://scholar.google.com/citations?user=8ClnbmIAAAAJ">
+        <span style="color: black;">
+            <i class="fab fa-google "></i></a>
+        </span>
+    
+    
+    
+     
+    <i> &nbsp;&nbsp; </i>
+</span>
+
+    </p>
+  </div>
+</div> 
+
+<script>
+  $(function () {
+    $('[data-toggle="popover"]').popover()
+  })
+</script>
+
+
+<!-- ANIMATE.JS ANIMATE LIBRARY
+<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha512-z4OUqw38qNLpn1libAN9BsoDx6nbNFio5lA6CuTp9NlK83b89hgyCVq+N5FdBJptINztxn1Z3SaKSKUS5UP60Q==" crossorigin="anonymous"></script>
+-->
+
+
+<!--JS FUNCTION FOR RECENT WORK SECTION -->
+<script>
+    $('#test-list a').on('click', function (e) {
+    e.preventDefault()
+    $(this).tab('show')
+    })
+</script> 
+
+<!-- OPTIONAL TOAST JS FUNCTION-->
+<script>
+    $(document).ready(function() {
+        $(".toast").toast("show");
+    });
+</script>
+
+
+<script>
+$('body').scrollspy({ target: '#list-example' })
+</script>
+
+<script>
+$('.collapse').collapse()
+</script>
+
+<script>
+$('.show').show()
+</script>
+  </body>
+</html>
