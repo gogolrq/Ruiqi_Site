@@ -22,7 +22,7 @@ code {
     font: 0.85em Monaco, Courier, Monospace;
 }
 
-.fa-id-card:hover, .fa-share-square:hover, .fa-file-pdf:hover, .fa-researchgate:hover, .fa-github-square:hover, .fa-google:hover  {
+.fa-id-card:hover, .fa-share-square:hover, .fa-file-pdf:hover, .fa-researchgate:hover, .fa-github-square:hover, .fa-google-plus-square:hover  {
     color: #00BFFF;
 }
 
