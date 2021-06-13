@@ -22,6 +22,14 @@ code {
     font: 0.85em Monaco, Courier, Monospace;
 }
 
+.fa-id-card:hover, .fa-share-square:hover, .fa-file-pdf:hover, .fa-researchgate:hover, .fa-github-square:hover, .fa-google:hover  {
+    color: #00BFFF;
+}
+
+
+.nav-link:hover{
+    color: #00BFFF !important;
+}
 
 a.highlighted, a.highlighted:link {
   color: #00BFFF !Important;
@@ -38,6 +46,8 @@ a.highlighted:hover {
   background-position-y: 100%;
 
 }
+
+
 
 .dumbarton-home{
     width:50%;
