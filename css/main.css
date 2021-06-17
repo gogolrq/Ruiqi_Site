@@ -30,9 +30,13 @@ code {
 
 
 
-.nav-link:hover{
+
+
+.nav-link:hover, .active{
     color: #00BFFF !important;
 }
+
+
 
 a.highlighted, a.highlighted:link {
   color: #00BFFF !Important;
