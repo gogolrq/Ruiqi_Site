@@ -22,11 +22,22 @@ code {
     font: 0.85em Monaco, Courier, Monospace;
 }
 
+.myHeading p {
+    margin-right:7px;
+}
+.myHeading h1, .myHeading p {
+    display:inline-block;
+    vertical-align:middle;
+}
+
 .fa-id-card:hover, .fa-share-square:hover, .fa-file-pdf:hover, .fa-researchgate:hover, .fa-github-square:hover, .ai-google-scholar-square:hover, .ai-cv-square:hover  {
     color: #00BFFF;
 }
 
-
+.table thead th{
+  color:white;
+  font-size:10pt;
+}
 
 
 
