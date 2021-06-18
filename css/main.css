@@ -40,7 +40,9 @@ code {
 }
 
 
-
+#nav_top{
+  border-bottom:2px solid #F0F3F8;
+}
 
 
 .nav-link:hover, .active{
