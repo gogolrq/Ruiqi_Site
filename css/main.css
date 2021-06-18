@@ -30,7 +30,7 @@ code {
     vertical-align:middle;
 }
 
-.fa-id-card:hover, .fa-share-square:hover, .fa-file-pdf:hover, .fa-researchgate:hover, .fa-github-square:hover, .ai-google-scholar-square:hover, .ai-cv-square:hover  {
+.fa-id-card:hover, .fa-share-square:hover, .fa-file-pdf:hover, .fa-researchgate:hover, .fa-github-square:hover, .ai-google-scholar-square:hover, .ai-cv-square:hover, .ai-orcid:hover  {
     color: #00BFFF;
 }
 
@@ -45,6 +45,18 @@ code {
 
 .nav-link:hover, .active{
     color: #00BFFF !important;
+}
+
+.navbar-nav > li{
+  margin-left:30px;
+}
+
+.navbar-brand{
+  margin-left:400px;
+}
+
+.navbar-nav{
+  margin-left:60px;
 }
 
 
