@@ -45,19 +45,45 @@ code {
 }
 
 
-.active a{
+li.active a{
  color: #00BFFF !important;
 }
 
+
+
+
 a.highlighted3, a.highlighted3:link {
   position: relative;
-  color: red;
+  color: #000;
   text-decoration: none;
 }
 
 a.highlighted3:hover{
-    color: #00BFFF !important;
+ color: #00BFFF !important;
 }
+
+
+a.highlighted3::before {
+  content: "";
+  position: absolute;
+  width: 90%;
+  height: 2px;
+  bottom: 0;
+  left: 5%;
+  background-color: #00BFFF;
+  visibility: hidden;
+  transform: scaleX(0);
+  transition: all 0.3s ease-in-out 0s;
+}
+
+a.highlighted3:hover::before, a.active-page::before{
+  visibility: visible;
+  transform: scaleX(1);
+}
+
+
+
+
 
 
 .navbar-nav > li{
