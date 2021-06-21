@@ -51,7 +51,6 @@ li.active a{
 
 
 
-
 a.highlighted3, a.highlighted3:link {
   position: relative;
   color: #000;
@@ -119,14 +118,27 @@ a.highlighted:hover {
 
 .timeline-label, .timeline-centered:before{
 	background-color: #f8f8f8 !important;
+ border-radius: 10px;
+}
+
+.timeline-label{
+ width: 80%;
+margin: auto;
+}
+
+.timeline-label img{
+    width: 90px;
+    height: 90px;
 }
 
 .timeline-label:after {
 	border-right-color: #f8f8f8 !important;
 }
 
+
+
 .timeline-icon{
-  box-shadow: 0 0 0 10px #f8f8f8  !important;
+  box-shadow: 0 0 0 8px #f8f8f8  !important;
 }
 
 
