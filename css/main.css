@@ -30,7 +30,7 @@ code {
     vertical-align:middle;
 }
 
-.fa-id-card:hover, .fa-share-square:hover, .fa-file-pdf:hover, .fa-researchgate:hover, .fa-github-square:hover, .ai-google-scholar-square:hover, .ai-cv-square:hover, .ai-orcid:hover  {
+.fa-id-card:hover, .fa-share-square:hover, .fa-file-pdf:hover, .fa-researchgate:hover, .fa-github-square:hover, .ai-google-scholar-square:hover, .ai-cv-square:hover, .ai-orcid:hover, .fa-tree:hover  {
     color: #00BFFF;
 }
 
