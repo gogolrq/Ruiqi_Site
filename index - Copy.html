@@ -9,8 +9,8 @@
   Any other head element should come *after* these tags.
  -->
 <title>Ruiqi Liu</title>
-<!-- Set the base URL for all relative URLs within the document -->
-<base href="https://ruiqiliu.com/">
+<!-- Set the base URL for all relative URLs within the document 
+<base href="https://ruiqiliu.com/">-->
 
 <!--
   Allows control over where resources are loaded from.
@@ -20,7 +20,7 @@
 
 <!-- Short description of the document (limit to 150 characters) -->
 <!-- This content *may* be used as a part of search engine results. -->
-<meta name="description" content="a minimalistic jekyll theme for academics">
+<meta name="description" content="">
 
 <!-- Control the behavior of search engine crawling and indexing -->
 <meta name="robots" content="index,follow"><!-- All Search Engines -->
@@ -53,25 +53,26 @@
 <link href="https://fonts.googleapis.com/css2?family=Parisienne&family=Courgette&family=Lobster&family=Pacifico&family=Yellowtail&family=Noto+Sans+JP:wght@400;900&family=Poppins:wght@500&family=Righteous&display=swap" rel="stylesheet">
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+<link href="https://emoji-css.afeld.me/emoji.css" rel="stylesheet">
 
 <link rel="stylesheet" href="css/main.css">
-<link rel="stylesheet" href="css/icomoon.css">
+<link rel="stylesheet" href="css/icon_style.css">
 <link rel="stylesheet" href="css/style.css">
 <!-- BootStrap CDN --> 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
 
 <script src="https://kit.fontawesome.com/32a2b2a489.js" crossorigin="anonymous"></script>
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script> 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
 
 
 <!--  GIT TALK CDN  for comment system -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
 <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script> 
-
+<script src="https://code.iconify.design/2/2.0.2/iconify.min.js"></script>
 
 <!-- Provides information about an author or another person -->
 <link rel="me" href="mailto:developer.tbutler@gmail.com">
@@ -94,10 +95,10 @@
 <meta property="fb:app_id" content="">
 <meta property="og:url" content="https://ruiqiliu.com/">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Ruiqi Liu, a minimalistic jekyll theme for academics">
+<meta property="og:title" content="Ruiqi Liu, ">
 <meta property="og:image" content="assets/img/ruiqiliu.jpg">
-<meta property="og:image:alt" content="A minimalistic jekyll theme for academic">
-<meta property="og:description" content="a minimalistic jekyll theme for academics">
+<meta property="og:image:alt" content="Ruiqi Liu's Website">
+<meta property="og:description" content="">
 <meta property="og:site_name" content="Ruiqi Liu">
 <meta property="og:locale" content="en_US">
 <meta property="article:author" content="Ruiqi">
@@ -106,10 +107,10 @@
 <meta name="twitter:site" content="@Ruiqi-Liu-12">
 <meta name="twitter:creator" content="@Ruiqi-Liu-12">
 <meta name="twitter:url" content="https://ruiqiliu.com/">
-<meta name="twitter:title" content="a minimalistic jekyll theme for academics">
-<meta name="twitter:description" content="a minimalistic jekyll theme for academics">
+<meta name="twitter:title" content="">
+<meta name="twitter:description" content="">
 <meta name="twitter:image" content="assets/img/ruiqiliu.jpg">
-<meta name="twitter:image:alt" content="A minimalistic jekyll theme for academic">
+<meta name="twitter:image:alt" content="Ruiqi Liu's Website">
 
 <!-- Used for adding in-document CSS -->
 
@@ -153,50 +154,56 @@
 
   <body style="background-color:;">
     
-<nav class="navbar navbar-expand-lg glowing-border mb-4" style="font-family:Poppins;background-color:#F0F3F8;">
-   <a class="navbar-brand"><h4 style="font-family:Lucida Handwriting;font-weight:600;color:#000000;">Ruiqi Liu</h4></a>
-  <button class="navbar-toggler text-black" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+
+<!-- <nav class="navbar navbar-expand-lg glowing-border mb-4" style="font-family:Poppins;background-color:#F0F3F8;"> --> 
+<nav class="navbar navbar-expand-lg  mb-4" style="font-family:Poppins;" id="nav_top">
+  <a class="navbar-brand"><h4 style="font-family:Lucida Handwriting;font-weight:800;color:#000000;">Ruiqi Liu</h4></a>
+  
+<button class="navbar-toggler text-black" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
   	<i class="fas fa-caret-down"></i>
   </button>
-  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    
+
+  <div class="navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
         
   	  
-              <li class="nav-item">
-                  <a href="index.html" class="nav-link" style="font-family:Poppins;color:#000000;">About</a>
+              <li class="nav-item active">
+                  <a href="index.html" class="nav-link highlighted3 active-page" style="font-family:Poppins;color:#000000;">About</a>
               </li>
-  	   
-
+ 	   
+		
         
   	  
               <li class="nav-item">
-                  <a href="research.html" class="nav-link" style="font-family:Poppins;color:#000000;">Research</a>
+                  <a href="research.html" class="nav-link highlighted3" style="font-family:Poppins;color:#000000;">Research</a>
               </li>
   	   
-
+		
         
   	  
               <li class="nav-item">
-                  <a href="teaching.html" class="nav-link" style="font-family:Poppins;color:#000000;">Teaching</a>
+                  <a href="teaching.html" class="nav-link highlighted3" style="font-family:Poppins;color:#000000;">Teaching</a>
               </li>
   	   
-
+		
         
   	  
               <li class="nav-item">
-                  <a href="experience.html" class="nav-link" style="font-family:Poppins;color:#000000;">Experience</a>
+                  <a href="experience.html" class="nav-link highlighted3" style="font-family:Poppins;color:#000000;">Experience</a>
               </li>
   	   
-
+		
         
   	  
               <li class="nav-item">
-                  <a href="miscellaneous.html" class="nav-link" style="font-family:Poppins;color:#000000;">Miscellaneous</a>
+                  <a href="miscellaneous.html" class="nav-link highlighted3" style="font-family:Poppins;color:#000000;">Miscellaneous</a>
               </li>
   	   
-
+		
         
     </ul>
+
     <ul class="navbar-nav  justify-content-end">
       <li class="nav-item">
         
@@ -206,6 +213,7 @@
     </ul>
   </div>
 </nav>
+
 
 
 
@@ -220,9 +228,9 @@
 <div class="row">
    <div class="col-md-4">
       <div class="row">
-         <div class="col">
+         <div class="col text-center center-block">
             
-            <img src="assets/img/avatar/ruiqiliu.png" class="img-thumbnail float-left" alt="...">
+            <img src="assets/img/avatar/ruiqiliu.png" class="img-thumbnail" alt="..." style="width:90%;">
             
          </div>
       </div>
@@ -232,20 +240,20 @@
             <span style="color:#000000;">
             <a class="social-link" href="https://www.dropbox.com/s/akub1e15q87lezk/RuiqiLiu_CV.pdf?dl=0" target="_blank">
             <span style="color: #000000;">
-            <i class="ai ai-cv-square ai-2x" data-toggle="tooltip" title="CV"></i></a>
+            <i class="icon-my-cv fa-2x" data-toggle="tooltip" title="CV"></i></a>
             </span>
             <i> &nbsp;&nbsp; </i>
             
             <a class="social-link" href="https://www.researchgate.net/profile/Ruiqi-Liu-12" target="_blank">
             <span style="color: #000000;">
-            <i class="fab fa-researchgate fa-2x" data-toggle="tooltip" title="Research Gate"></i></a>
+            <i class="icon-my-rg fa-2x" data-toggle="tooltip" title="Research Gate"></i></a>
             </span>
             
             <i> &nbsp;&nbsp; </i>
             
             <a href="https://github.com/gogolrq" target="_blank">
             <span style="color: #000000;">
-            <i class="fab fa-github-square fa-2x" data-toggle="tooltip" title="Github"></i></a>
+            <i class="icon-my-git fa-2x" data-toggle="tooltip" title="Github"></i></a>
             </span>
             
             <i> &nbsp;&nbsp; </i>
@@ -253,12 +261,30 @@
             
             <a href="https://scholar.google.com/citations?user=8ClnbmIAAAAJ" target="_blank">
             <span style="color: #000000;">
-            <i class="ai ai-google-scholar-square ai-2x" data-toggle="tooltip" title="Google Scholar"></i></a>
+            <i class="icon-my-google fa-2x" data-toggle="tooltip" title="Google Scholar"></i></a>
+            </span>
+            
+	     <i> &nbsp;&nbsp; </i>
+            
+            <a href="https://orcid.org/0000-0001-9392-3071" target="_blank">
+            <span style="color: #000000;">
+            <i class="icon-my-oid fa-2x" data-toggle="tooltip" title="ORCID"></i></a>
             </span>
             
             
+	    <i> &nbsp;&nbsp; </i>
+            <a href="https://www.mathgenealogy.org/id.php?id=265066" target="_blank">
+            <span style="color: #000000;">
+            <i class="icon-my-tree fa-2x" data-toggle="tooltip" title="Genealogy"></i></a>
+            </span>
+
+	 <!--   <i> &nbsp; </i>
+            <a href="https://www.mathgenealogy.org/id.php?id=265066" target="_blank">
+            <span style="color: #000000;">
+            <i class="iconify fa-2x" data-icon="fa-solid:book" ></i></a>
+            </span> -->
+
             
-             
             <i> &nbsp;&nbsp; </i>
             </span>
          </div>
@@ -267,12 +293,88 @@
    <!-- EDUCATION SECTION -->
    <div class="col-md-8">
       
-         <div class="card-body mt-0" style="color:;">
+         <div class="card-body mt-1" style="color:;padding-top: 0px;">
             
-            <p style="color:;"><h3 id="hi-im-dumbarton-">Hi, I’m Dumbarton 👋</h3>
-<p>Dumbarton is a Jekyll Theme developed by <a href="https://github.com/tcbutler320">Tyler Butler</a>. The theme is designed for academics and features a simple home page with an about me section and an interactive highlights section to describe publications, coursework, courses taught, and projects. You can checkout the project on <a href="https://github.com/tcbutler320/Jekyll-Theme-Dumbarton">Github</a>, feel free to make contributions and feature requests and don’t forget to give it a star.</p>
+            <p style="color:;"><h1 class="mx-auto" style="font-family:Courgette;"> Welcome!  </h1>
 
-<p><a href="/contact.html" class="highlighted">Contact Me</a></p>
+<h4 class="mx-auto"> My name is Ruiqi Liu (刘瑞琪). </h4>
+
+<p><br /></p>
+<p style="text-align: justify;">
+I am an Assistant Professor in the Department of Mathematics and Statistics at <a href="https://www.depts.ttu.edu/math/
+" target="_blank" class="highlighted">Texas Tech University</a>.
+From 2018 to 2020, I broadened my research interests when working with <a href="https://scholar.google.com/citations?user=5iA1iRoAAAAJ&amp;hl=en
+" target="_blank" class="highlighted">Dr. Zuofeng Shang</a> as a postdoctoral fellow at <a href="https://math.iupui.edu/
+" target="_blank" class="highlighted">IUPUI</a>. I received my Ph.D. from <a href="https://www2.math.binghamton.edu/p/start
+" target="_blank" class="highlighted">Binghamton University</a> in 2018 under the supervision of <a href="https://www2.math.binghamton.edu/p/people/anton/start
+" target="_blank" class="highlighted">Dr. Anton Schick</a> and <a href="https://scholar.google.com/citations?user=5iA1iRoAAAAJ&amp;hl=en
+" target="_blank" class="highlighted">Dr. Zuofeng Shang</a>. Before coming to the United States, I obtained a dual Bachelor's degree in Mathematics and Management from  <a href="http://www.sysu.edu.cn/en/index.htm
+" target="_blank" class="highlighted">Sun Yat-sen University</a> in 2013.
+
+</p>
+
+<!--
+<div class="row">
+   <div class="col-md-9">
+             <i class="fas fa-dice-d20 fa-spin" style="color: firebrick"></i> <strong>Research Interests</strong><br>
+<ul class="fa-ul">
+  <li><span class="fa-li"><i class="iconify fa-lg"  data-icon="bi:bar-chart-line-fill" ></i></span>Semi/Nonparametric Statistics</li>
+  <li><span class="fa-li"><i class="iconify fa-lg"  data-icon="fa-solid:chart-line" ></i></span>Econometrics</li>
+  <li><span class="fa-li"><i class="iconify fa-lg"  data-icon="file-icons:robots" ></i></span>Statistical Machine/Deep Learning</li>
+</ul>
+
+
+    </div>
+</div>
+-->
+
+<!--
+<div class="row">
+   <div class="col-md-9">
+             <i class="fa fa-gear fa-spin" style="color: firebrick"></i> <strong>Contact Information</strong><br>
+<ul class="fa-ul">
+  <li><span class="fa-li"><i class="iconify fa-lg"  data-icon="heroicons-solid:office-building" ></i></span>MA 235, Department of Mathematics & Statistics</li>
+  <li><span class="fa-li"><i class="iconify fa-lg"  data-icon="si-glyph:pin-location-2" ></i></span>Texas Tech University, 1108 Memorial Circle, Lubbock, TX, 79409</li>
+  <li><span class="fa-li"><i class="iconify fa-lg"  data-icon="ic:round-email" ></i></span>ruiqliu (at) ttu (dot) edu</li>
+  <li><span class="fa-li"><i class="iconify fa-lg"  data-icon="fluent:globe-desktop-24-filled" ></i></span><a href="https://www.math.ttu.edu/~ruiqliu" target="_blank" class="highlighted">www.math.ttu.edu/~ruiqliu</a></li>
+</ul>
+  
+    </div>
+
+</div>
+-->
+
+<div class="row">
+   <div class="col-md-9">
+             <i class="fas fa-dice-d20 fa-spin" style="color: firebrick"></i> <strong>Research Interests</strong><br />
+<ul class="fa-ul">
+  <li><i class="fa-li bi bi-bar-chart-line-fill"></i>Semi/Nonparametric Statistics</li>
+  <li><i class="fa-li fas fa-chart-line"></i>Econometrics</li>
+   <li><i class="fa-li fas fa-robot"></i>Statistical Machine/Deep Learning</li>
+</ul>
+
+
+    </div>
+</div>
+
+<div class="row">
+   <div class="col-md-9">
+             <i class="fa fa-gear fa-spin" style="color: firebrick"></i> <strong>Contact Information</strong><br />
+<ul class="fa-ul">
+  <li><i class="fa-li fas fa-building"></i>MA 235, Department of Mathematics &amp; Statistics</li>
+  <li><i class="fa-li fas fa-map-marker-alt"></i>Texas Tech University, 1108 Memorial Circle, Lubbock, TX, 79409</li>
+  <li><i class="fa-li fas fa-envelope"></i>ruiqliu (at) ttu (dot) edu</li>
+  <li><i class="fa-li fas fa-globe"></i><a href="https://www.math.ttu.edu/~ruiqliu" target="_blank" class="highlighted">www.math.ttu.edu/~ruiqliu</a></li>
+</ul>
+    <!--</div>
+     <div class="col-md-3"><img src="/assets/img/icons/raider.png" style="width: 100%; height: 100%" alt="TTU">
+     </div>-->
+</div>
+
+
+
+
+</div>
 
             <p>
                

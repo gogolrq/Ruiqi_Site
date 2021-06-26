@@ -22,6 +22,8 @@ code {
     font: 0.85em Monaco, Courier, Monospace;
 }
 
+
+
 .myHeading p {
     margin-right:7px;
 }
@@ -33,6 +35,10 @@ code {
 .fa-id-card:hover, .fa-share-square:hover, .fa-file-pdf:hover, .fa-researchgate:hover, .fa-github-square:hover, .ai-google-scholar-square:hover, .ai-cv-square:hover, .ai-orcid:hover, .fa-tree:hover  {
     color: #00BFFF;
 }
+.icon-my-cv:hover, .icon-my-rg:hover, .icon-my-git:hover, .icon-my-google:hover, .icon-my-oid:hover, .icon-my-tree:hover  {
+    color: #00BFFF;
+}
+
 
 .table thead th{
   color:white;
