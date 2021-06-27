@@ -38,6 +38,11 @@ code {
 .icon-my-cv:hover, .icon-my-rg:hover, .icon-my-git:hover, .icon-my-google:hover, .icon-my-oid:hover, .icon-my-tree:hover  {
     color: #00BFFF;
 }
+.icon-my-cv, .icon-my-rg, .icon-my-git, .icon-my-google, .icon-my-oid, .icon-my-tree, .icon-my-tree2,.icon-my-tree3 {
+    padding-left: 5px; 
+    padding-right: 5px; 
+    font-size:30px !important;
+}
 
 
 .table thead th{
