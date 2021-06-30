@@ -94,18 +94,23 @@ a.highlighted3:hover::before, a.active-page::before{
 
 
 
+.container{
+  margin-left: 500px !important;
+  margin-right: 0px !important;
+}
 
+.navbar-brand{
+  margin-left:500px;
+}
 
 .navbar-nav > li{
   margin-left:30px;
 }
 
-.navbar-brand{
-  margin-left:400px;
-}
+
 
 .navbar-nav{
-  margin-left:60px;
+  margin-left:40px;
 }
 
 
