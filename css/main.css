@@ -95,12 +95,15 @@ a.highlighted3:hover::before, a.active-page::before{
 
 
 .container{
-  margin-left: 500px !important;
-  margin-right: 0px !important;
+  margin-left:500px !important;
+}
+
+.indexcontainer{
+  margin-left:20% !important;
 }
 
 .navbar-brand{
-  margin-left:500px;
+  margin-left:500px !important;
 }
 
 .navbar-nav > li{
