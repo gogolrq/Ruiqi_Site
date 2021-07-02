@@ -96,7 +96,13 @@ a.highlighted3:hover::before, a.active-page::before{
 
 .container{
   margin-left:500px !important;
+
 }
+
+.container-page{
+  min-height:810px;
+}
+
 
 .indexcontainer{
   margin-left:20% !important;
