@@ -95,12 +95,13 @@ a.highlighted3:hover::before, a.active-page::before{
 
 
 .container{
-  margin-left:500px !important;
-
+  margin-left:25% !important;
+  padding-top:-10px;
 }
 
 .container-page{
   min-height:810px;
+
 }
 
 
@@ -109,13 +110,18 @@ a.highlighted3:hover::before, a.active-page::before{
 }
 
 .navbar-brand{
-  margin-left:500px !important;
+  margin-left:30% !important;
+}
+
+.mynav-bottom{
+  margin-bottom:1.1rem !important;
+  padding:0px !important;
+  height:5rem;
 }
 
 .navbar-nav > li{
   margin-left:30px;
 }
-
 
 
 .navbar-nav{
