@@ -96,16 +96,18 @@ a.highlighted3:hover::before, a.active-page::before{
 
 .container{
   margin-left:500px !important;
-  padding-top:-20px;
+  
 }
 
 .container-page{
   min-height:805px;
+  padding-top:-20px;
 }
 
 
 .indexcontainer{
   margin-left:500px !important;
+  padding-top:30px;
 }
 
 .navbar-brand{
