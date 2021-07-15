@@ -263,9 +263,41 @@
   </div>
 </div>
 
+<p>
+  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+ Show
+  </button>
+</p>
+<div class="collapse" id="collapseExample">
+  <div class="card card-body">
+    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
+  </div>
+</div>
+<p><button onclick="myFunction()">Try it</button></p>
+
+<script>
+function myFunction() {
+  alert("Hello! I am an alert box!");
+}
+</script>
+
+<script>
+$(document).ready(function() {
+$('[data-toggle="collapse"]').click(function() {
+  alert("Hello! I am an alert box!");
+  $(this).toggleClass( "active" );
+  if ($(this).hasClass("active")) {
+    $(this).text("Hide");
+  } else {
+    $(this).text("Show");
+  }
+});
+</script>
+
+
             </p>
             
-              <p class="card-text"><small class="text-muted">This page was last updated at 2021-07-04 08:33.</small></p>
+              <p class="card-text"><small class="text-muted">This page was last updated at 2021-07-15 01:12.</small></p>
             
           </div>
       </div>
