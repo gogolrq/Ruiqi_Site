@@ -32,11 +32,14 @@ code {
     vertical-align:middle;
 }
 
-.fa-id-card:hover, .fa-share-square:hover, .fa-file-pdf:hover, .fa-researchgate:hover, .fa-github-square:hover, .ai-google-scholar-square:hover, .ai-cv-square:hover, .ai-orcid:hover, .fa-tree:hover  {
+.fa-id-card:hover, .fa-share-square:hover, .fa-file-pdf:hover, .fa-researchgate:hover, .fa-github-square:hover, .ai-google-scholar-square:hover, .ai-cv-square:hover, .ai-orcid:hover, .fa-tree:hover, .fa-plus-square:hover, .fa-minus-square:hover  {
     color: #00BFFF;
+    cursor: pointer;
 }
+
 .icon-my-cv:hover, .icon-my-rg:hover, .icon-my-git:hover, .icon-my-google:hover, .icon-my-oid:hover, .icon-my-tree:hover  {
     color: #00BFFF;
+    cursor: pointer;
 }
 .icon-my-cv, .icon-my-rg, .icon-my-git, .icon-my-google, .icon-my-oid, .icon-my-tree, .icon-my-tree2,.icon-my-tree3 {
     padding-left: 5px; 
@@ -44,6 +47,9 @@ code {
     font-size:30px !important;
 }
 
+.abstract{
+  margin: 0rem;
+}
 
 .table thead th{
   color:white;
