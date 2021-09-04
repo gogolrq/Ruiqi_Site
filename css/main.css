@@ -101,7 +101,7 @@ a.highlighted3:hover::before, a.active-page::before{
 
 
 .container{
-  margin-left:500px !important;
+  margin-left:30% !important;
   
 }
 
@@ -112,12 +112,12 @@ a.highlighted3:hover::before, a.active-page::before{
 
 
 .indexcontainer{
-  margin-left:500px !important;
+  margin-left:27% !important;
   padding-top:30px;
 }
 
 .navbar-brand{
-  margin-left:500px !important;
+  margin-left:30% !important;
 }
 
 .mynav-bottom{
