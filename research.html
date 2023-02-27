@@ -128,12 +128,29 @@
 
     <!-- for mathjax support -->
 
-  <script type="text/x-mathjax-config">
-	MathJax.Hub.Config({
-	TeX: { equationNumbers: { autoNumber: "AMS" } }
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    TeX: {
+      equationNumbers: {
+        autoNumber: "AMS"
+      }
+    },
+    tex2jax: {
+    inlineMath: [ ['$', '$'] ],
+    displayMath: [ ['$$', '$$'] ],
+    processEscapes: true,
+  }
+});
+MathJax.Hub.Register.MessageHook("Math Processing Error",function (message) {
+	  alert("Math Processing Error: "+message[1]);
 	});
-  </script>
-  <script type="text/javascript" async src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+MathJax.Hub.Register.MessageHook("TeX Jax - parse error",function (message) {
+	  alert("Math Processing Error: "+message[1]);
+	});
+</script>
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 
 <noscript>
   <!-- No JS alternative -->
@@ -261,7 +278,7 @@ Shunan Zhao, <strong>Ruiqi Liu</strong> and Zuofeng Shang <br />  <strong><em>Jo
 <br /> Tianyang Hu, <strong>Ruiqi Liu</strong>, Zuofeng Shang and Guang Cheng, 2022</p>
   </li>
   <li>
-    <p>Statistical Inference with Stochastic Gradient Methods under 	\(\phi\)-mixing Data
+    <p>Statistical Inference with Stochastic Gradient Methods under 	$\phi$-mixing Data
   <a href="https://arxiv.org/abs/2302.12717" target="_blank"><i class="fas fa-file-pdf" data-toggle="tooltip" title="Preprint"></i></a>
 <br /> <strong>Ruiqi Liu</strong>, Xi Chen, and Zuofeng Shang, 2023</p>
   </li>
