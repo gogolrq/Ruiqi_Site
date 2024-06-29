@@ -1,529 +1,529 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://ruiqiliu.com//feed.xml" rel="self" type="application/atom+xml" /><link href="https://ruiqiliu.com//" rel="alternate" type="text/html" /><updated>2023-10-27T17:16:39-05:00</updated><id>https://ruiqiliu.com//feed.xml</id><title type="html">Ruiqi Liu</title><author><name>Ruiqi</name></author><entry><title type="html">Welcome to Jekyll!</title><link href="https://ruiqiliu.com//post/2020/10/29/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-10-29T19:01:21-05:00</published><updated>2020-10-29T19:01:21-05:00</updated><id>https://ruiqiliu.com//post/2020/10/29/welcome-to-jekyll</id><content type="html" xml:base="https://ruiqiliu.com//post/2020/10/29/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://ruiqiliu.com//feed.xml" rel="self" type="application/atom+xml" /><link href="https://ruiqiliu.com//" rel="alternate" type="text/html" /><updated>2024-06-29T13:43:23-05:00</updated><id>https://ruiqiliu.com//feed.xml</id><title type="html">Ruiqi Liu</title><author><name>Ruiqi</name></author><entry><title type="html">Welcome to Jekyll!</title><link href="https://ruiqiliu.com//post/2020/10/29/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-10-29T19:01:21-05:00</published><updated>2020-10-29T19:01:21-05:00</updated><id>https://ruiqiliu.com//post/2020/10/29/welcome-to-jekyll</id><content type="html" xml:base="https://ruiqiliu.com//post/2020/10/29/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
-&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+<p>Jekyll requires blog post files to be named according to the following format:</p>
 
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
 
-&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+<p>Jekyll also offers powerful support for code snippets:</p>
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>Tyler Butler</name></author><category term="post" /><category term="jekyll" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://placehold.it/750X300?text=Header+Image" /><media:content medium="image" url="http://placehold.it/750X300?text=Header+Image" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Dumbarton Style Guide</title><link href="https://ruiqiliu.com//post/2020/10/28/Dumbarton-Style-Guide.html" rel="alternate" type="text/html" title="Dumbarton Style Guide" /><published>2020-10-28T19:01:21-05:00</published><updated>2020-10-28T19:01:21-05:00</updated><id>https://ruiqiliu.com//post/2020/10/28/Dumbarton-Style-Guide</id><content type="html" xml:base="https://ruiqiliu.com//post/2020/10/28/Dumbarton-Style-Guide.html">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;#markdown&quot;&gt;Markdown&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#bootstrap&quot;&gt;Bootstrap&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;[Custom CSS]&lt;/li&gt;
-&lt;/ul&gt;
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name>Tyler Butler</name></author><category term="post" /><category term="jekyll" /><summary type="html"><![CDATA[A Preset Post from Jekyll]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://placehold.it/750X300?text=Header+Image" /><media:content medium="image" url="http://placehold.it/750X300?text=Header+Image" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Dumbarton Style Guide</title><link href="https://ruiqiliu.com//post/2020/10/28/Dumbarton-Style-Guide.html" rel="alternate" type="text/html" title="Dumbarton Style Guide" /><published>2020-10-28T19:01:21-05:00</published><updated>2020-10-28T19:01:21-05:00</updated><id>https://ruiqiliu.com//post/2020/10/28/Dumbarton-Style-Guide</id><content type="html" xml:base="https://ruiqiliu.com//post/2020/10/28/Dumbarton-Style-Guide.html"><![CDATA[<ul>
+  <li><a href="#markdown">Markdown</a></li>
+  <li><a href="#bootstrap">Bootstrap</a></li>
+  <li>[Custom CSS]</li>
+</ul>
 
-&lt;h1 id=&quot;markdown&quot;&gt;Markdown&lt;/h1&gt;
+<h1 id="markdown">Markdown</h1>
 
-&lt;h1 id=&quot;heading-&quot;&gt;Heading &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;#&lt;/code&gt;&lt;/h1&gt;
-&lt;h2 id=&quot;heading--1&quot;&gt;Heading &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;##&lt;/code&gt;&lt;/h2&gt;
-&lt;h3 id=&quot;heading&quot;&gt;Heading&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;###&lt;/code&gt;&lt;/h3&gt;
-&lt;h4 id=&quot;heading--2&quot;&gt;Heading &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;####&lt;/code&gt;&lt;/h4&gt;
-&lt;h5 id=&quot;heading-1&quot;&gt;Heading&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;#####&lt;/code&gt;&lt;/h5&gt;
+<h1 id="heading-">Heading <code class="language-plaintext highlighter-rouge">#</code></h1>
+<h2 id="heading--1">Heading <code class="language-plaintext highlighter-rouge">##</code></h2>
+<h3 id="heading">Heading<code class="language-plaintext highlighter-rouge">###</code></h3>
+<h4 id="heading--2">Heading <code class="language-plaintext highlighter-rouge">####</code></h4>
+<h5 id="heading-1">Heading<code class="language-plaintext highlighter-rouge">#####</code></h5>
 
-&lt;p&gt;&lt;em&gt;italics&lt;/em&gt;  &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;*italics*&lt;/code&gt;&lt;br /&gt;
-&lt;strong&gt;Bold&lt;/strong&gt;   &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;**Bold**&lt;/code&gt;&lt;/p&gt;
+<p><em>italics</em>  <code class="language-plaintext highlighter-rouge">*italics*</code><br />
+<strong>Bold</strong>   <code class="language-plaintext highlighter-rouge">**Bold**</code></p>
 
-&lt;p&gt;Code Highlighting&lt;/p&gt;
-&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;my_function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello from a function&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+<p>Code Highlighting</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">my_function</span><span class="p">():</span>
+  <span class="nf">print</span><span class="p">(</span><span class="sh">"</span><span class="s">Hello from a function</span><span class="sh">"</span><span class="p">)</span>
 
-&lt;span class=&quot;n&quot;&gt;my_function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+<span class="nf">my_function</span><span class="p">()</span>
+</code></pre></div></div>
 
-&lt;blockquote&gt;
-  &lt;p&gt;Block Quote&lt;/p&gt;
-&lt;/blockquote&gt;
+<blockquote>
+  <p>Block Quote</p>
+</blockquote>
 
-&lt;p&gt;Tables&lt;/p&gt;
+<p>Tables</p>
 
-&lt;table class=&quot;mbtablestyle&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Syntax&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Description&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Test Text&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Header&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Title&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;Here’s this&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Paragraph&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Text&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;And more&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+<table class="mbtablestyle">
+  <thead>
+    <tr>
+      <th style="text-align: left">Syntax</th>
+      <th style="text-align: center">Description</th>
+      <th style="text-align: right">Test Text</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Header</td>
+      <td style="text-align: center">Title</td>
+      <td style="text-align: right">Here’s this</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Paragraph</td>
+      <td style="text-align: center">Text</td>
+      <td style="text-align: right">And more</td>
+    </tr>
+  </tbody>
+</table>
 
-&lt;p&gt;Here’s a simple footnote,&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; and here’s a longer one.&lt;sup id=&quot;fnref:bignote&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:bignote&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+<p>Here’s a simple footnote,<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> and here’s a longer one.<sup id="fnref:bignote" role="doc-noteref"><a href="#fn:bignote" class="footnote" rel="footnote">2</a></sup></p>
 
-&lt;h1 id=&quot;bootstrap&quot;&gt;Bootstrap&lt;/h1&gt;
-&lt;p&gt;This theme uses Bootstrap 4 CDN. In addition to markdown, you can use raw bootstrap HTML to format posts and pages. For a full list of options, check out the &lt;a href=&quot;https://getbootstrap.com/docs/4.5/getting-started/introduction/&quot;&gt;Documentation&lt;/a&gt; page.&lt;/p&gt;
+<h1 id="bootstrap">Bootstrap</h1>
+<p>This theme uses Bootstrap 4 CDN. In addition to markdown, you can use raw bootstrap HTML to format posts and pages. For a full list of options, check out the <a href="https://getbootstrap.com/docs/4.5/getting-started/introduction/">Documentation</a> page.</p>
 
-&lt;div class=&quot;alert alert-primary&quot; role=&quot;alert&quot;&gt;
+<div class="alert alert-primary" role="alert">
   A simple primary alert—check it out!
-&lt;/div&gt;
-&lt;div class=&quot;alert alert-secondary&quot; role=&quot;alert&quot;&gt;
+</div>
+<div class="alert alert-secondary" role="alert">
   A simple secondary alert—check it out!
-&lt;/div&gt;
-&lt;div class=&quot;alert alert-success&quot; role=&quot;alert&quot;&gt;
+</div>
+<div class="alert alert-success" role="alert">
   A simple success alert—check it out!
-&lt;/div&gt;
-&lt;div class=&quot;alert alert-danger&quot; role=&quot;alert&quot;&gt;
+</div>
+<div class="alert alert-danger" role="alert">
   A simple danger alert—check it out!
-&lt;/div&gt;
-&lt;div class=&quot;alert alert-warning&quot; role=&quot;alert&quot;&gt;
+</div>
+<div class="alert alert-warning" role="alert">
   A simple warning alert—check it out!
-&lt;/div&gt;
-&lt;div class=&quot;alert alert-info&quot; role=&quot;alert&quot;&gt;
+</div>
+<div class="alert alert-info" role="alert">
   A simple info alert—check it out!
-&lt;/div&gt;
-&lt;div class=&quot;alert alert-light&quot; role=&quot;alert&quot;&gt;
+</div>
+<div class="alert alert-light" role="alert">
   A simple light alert—check it out!
-&lt;/div&gt;
-&lt;div class=&quot;alert alert-dark&quot; role=&quot;alert&quot;&gt;
+</div>
+<div class="alert alert-dark" role="alert">
   A simple dark alert—check it out!
-&lt;/div&gt;
+</div>
 
-&lt;h1&gt;Example heading &lt;span class=&quot;badge badge-secondary&quot;&gt;New&lt;/span&gt;&lt;/h1&gt;
-&lt;h2&gt;Example heading &lt;span class=&quot;badge badge-secondary&quot;&gt;New&lt;/span&gt;&lt;/h2&gt;
-&lt;h3&gt;Example heading &lt;span class=&quot;badge badge-secondary&quot;&gt;New&lt;/span&gt;&lt;/h3&gt;
-&lt;h4&gt;Example heading &lt;span class=&quot;badge badge-secondary&quot;&gt;New&lt;/span&gt;&lt;/h4&gt;
-&lt;h5&gt;Example heading &lt;span class=&quot;badge badge-secondary&quot;&gt;New&lt;/span&gt;&lt;/h5&gt;
-&lt;h6&gt;Example heading &lt;span class=&quot;badge badge-secondary&quot;&gt;New&lt;/span&gt;&lt;/h6&gt;
+<h1>Example heading <span class="badge badge-secondary">New</span></h1>
+<h2>Example heading <span class="badge badge-secondary">New</span></h2>
+<h3>Example heading <span class="badge badge-secondary">New</span></h3>
+<h4>Example heading <span class="badge badge-secondary">New</span></h4>
+<h5>Example heading <span class="badge badge-secondary">New</span></h5>
+<h6>Example heading <span class="badge badge-secondary">New</span></h6>
 
-&lt;nav aria-label=&quot;breadcrumb&quot;&gt;
-  &lt;ol class=&quot;breadcrumb&quot;&gt;
-    &lt;li class=&quot;breadcrumb-item active&quot; aria-current=&quot;page&quot;&gt;Home&lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/nav&gt;
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item active" aria-current="page">Home</li>
+  </ol>
+</nav>
 
-&lt;nav aria-label=&quot;breadcrumb&quot;&gt;
-  &lt;ol class=&quot;breadcrumb&quot;&gt;
-    &lt;li class=&quot;breadcrumb-item&quot;&gt;&lt;a href=&quot;#&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
-    &lt;li class=&quot;breadcrumb-item active&quot; aria-current=&quot;page&quot;&gt;Library&lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/nav&gt;
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="#">Home</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Library</li>
+  </ol>
+</nav>
 
-&lt;nav aria-label=&quot;breadcrumb&quot;&gt;
-  &lt;ol class=&quot;breadcrumb&quot;&gt;
-    &lt;li class=&quot;breadcrumb-item&quot;&gt;&lt;a href=&quot;#&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
-    &lt;li class=&quot;breadcrumb-item&quot;&gt;&lt;a href=&quot;#&quot;&gt;Library&lt;/a&gt;&lt;/li&gt;
-    &lt;li class=&quot;breadcrumb-item active&quot; aria-current=&quot;page&quot;&gt;Data&lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/nav&gt;
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="#">Home</a></li>
+    <li class="breadcrumb-item"><a href="#">Library</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Data</li>
+  </ol>
+</nav>
 
-&lt;p&gt;&lt;button type=&quot;button&quot; class=&quot;btn btn-primary&quot;&gt;Primary&lt;/button&gt;
-&lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot;&gt;Secondary&lt;/button&gt;
-&lt;button type=&quot;button&quot; class=&quot;btn btn-success&quot;&gt;Success&lt;/button&gt;
-&lt;button type=&quot;button&quot; class=&quot;btn btn-danger&quot;&gt;Danger&lt;/button&gt;
-&lt;button type=&quot;button&quot; class=&quot;btn btn-warning&quot;&gt;Warning&lt;/button&gt;
-&lt;button type=&quot;button&quot; class=&quot;btn btn-info&quot;&gt;Info&lt;/button&gt;
-&lt;button type=&quot;button&quot; class=&quot;btn btn-light&quot;&gt;Light&lt;/button&gt;
-&lt;button type=&quot;button&quot; class=&quot;btn btn-dark&quot;&gt;Dark&lt;/button&gt;&lt;/p&gt;
+<p><button type="button" class="btn btn-primary">Primary</button>
+<button type="button" class="btn btn-secondary">Secondary</button>
+<button type="button" class="btn btn-success">Success</button>
+<button type="button" class="btn btn-danger">Danger</button>
+<button type="button" class="btn btn-warning">Warning</button>
+<button type="button" class="btn btn-info">Info</button>
+<button type="button" class="btn btn-light">Light</button>
+<button type="button" class="btn btn-dark">Dark</button></p>
 
-&lt;p&gt;&lt;button type=&quot;button&quot; class=&quot;btn btn-link&quot;&gt;Link&lt;/button&gt;&lt;/p&gt;
+<p><button type="button" class="btn btn-link">Link</button></p>
 
-&lt;div class=&quot;btn-group&quot; role=&quot;group&quot; aria-label=&quot;Button group with nested dropdown&quot;&gt;
-  &lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot;&gt;1&lt;/button&gt;
-  &lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot;&gt;2&lt;/button&gt;
+<div class="btn-group" role="group" aria-label="Button group with nested dropdown">
+  <button type="button" class="btn btn-secondary">1</button>
+  <button type="button" class="btn btn-secondary">2</button>
 
-  &lt;div class=&quot;btn-group&quot; role=&quot;group&quot;&gt;
-    &lt;button id=&quot;btnGroupDrop1&quot; type=&quot;button&quot; class=&quot;btn btn-secondary dropdown-toggle&quot; data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;
+  <div class="btn-group" role="group">
+    <button id="btnGroupDrop1" type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
       Dropdown
-    &lt;/button&gt;
-    &lt;div class=&quot;dropdown-menu&quot; aria-labelledby=&quot;btnGroupDrop1&quot;&gt;
-      &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Dropdown link&lt;/a&gt;
-      &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Dropdown link&lt;/a&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+    </button>
+    <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
+      <a class="dropdown-item" href="#">Dropdown link</a>
+      <a class="dropdown-item" href="#">Dropdown link</a>
+    </div>
+  </div>
+</div>
 
-&lt;div class=&quot;card&quot; style=&quot;width: 18rem;&quot;&gt;
-  &lt;img src=&quot;http://placehold.it/150x150&quot; class=&quot;card-img-top&quot; alt=&quot;...&quot; /&gt;
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Card title&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Some quick example text to build on the card title and make up the bulk of the card's content.&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;Cras justo odio&lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;Dapibus ac facilisis in&lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;Vestibulum at eros&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;a href=&quot;#&quot; class=&quot;card-link&quot;&gt;Card link&lt;/a&gt;
-    &lt;a href=&quot;#&quot; class=&quot;card-link&quot;&gt;Another link&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+<div class="card" style="width: 18rem;">
+  <img src="http://placehold.it/150x150" class="card-img-top" alt="..." />
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item">Cras justo odio</li>
+    <li class="list-group-item">Dapibus ac facilisis in</li>
+    <li class="list-group-item">Vestibulum at eros</li>
+  </ul>
+  <div class="card-body">
+    <a href="#" class="card-link">Card link</a>
+    <a href="#" class="card-link">Another link</a>
+  </div>
+</div>
 
-&lt;!-- Example split danger button --&gt;
-&lt;div class=&quot;btn-group&quot;&gt;
-  &lt;button type=&quot;button&quot; class=&quot;btn btn-danger&quot;&gt;Action&lt;/button&gt;
-  &lt;button type=&quot;button&quot; class=&quot;btn btn-danger dropdown-toggle dropdown-toggle-split&quot; data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;
-    &lt;span class=&quot;sr-only&quot;&gt;Toggle Dropdown&lt;/span&gt;
-  &lt;/button&gt;
-  &lt;div class=&quot;dropdown-menu&quot;&gt;
-    &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt;
-    &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Another action&lt;/a&gt;
-    &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Something else here&lt;/a&gt;
-    &lt;div class=&quot;dropdown-divider&quot;&gt;&lt;/div&gt;
-    &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Separated link&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+<!-- Example split danger button -->
+<div class="btn-group">
+  <button type="button" class="btn btn-danger">Action</button>
+  <button type="button" class="btn btn-danger dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <span class="sr-only">Toggle Dropdown</span>
+  </button>
+  <div class="dropdown-menu">
+    <a class="dropdown-item" href="#">Action</a>
+    <a class="dropdown-item" href="#">Another action</a>
+    <a class="dropdown-item" href="#">Something else here</a>
+    <div class="dropdown-divider"></div>
+    <a class="dropdown-item" href="#">Separated link</a>
+  </div>
+</div>
 
-&lt;form&gt;
-  &lt;div class=&quot;form-group row&quot;&gt;
-    &lt;label for=&quot;inputEmail3&quot; class=&quot;col-sm-2 col-form-label&quot;&gt;Email&lt;/label&gt;
-    &lt;div class=&quot;col-sm-10&quot;&gt;
-      &lt;input type=&quot;email&quot; class=&quot;form-control&quot; id=&quot;inputEmail3&quot; /&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;form-group row&quot;&gt;
-    &lt;label for=&quot;inputPassword3&quot; class=&quot;col-sm-2 col-form-label&quot;&gt;Password&lt;/label&gt;
-    &lt;div class=&quot;col-sm-10&quot;&gt;
-      &lt;input type=&quot;password&quot; class=&quot;form-control&quot; id=&quot;inputPassword3&quot; /&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;fieldset class=&quot;form-group&quot;&gt;
-    &lt;div class=&quot;row&quot;&gt;
-      &lt;legend class=&quot;col-form-label col-sm-2 pt-0&quot;&gt;Radios&lt;/legend&gt;
-      &lt;div class=&quot;col-sm-10&quot;&gt;
-        &lt;div class=&quot;form-check&quot;&gt;
-          &lt;input class=&quot;form-check-input&quot; type=&quot;radio&quot; name=&quot;gridRadios&quot; id=&quot;gridRadios1&quot; value=&quot;option1&quot; checked=&quot;&quot; /&gt;
-          &lt;label class=&quot;form-check-label&quot; for=&quot;gridRadios1&quot;&gt;
+<form>
+  <div class="form-group row">
+    <label for="inputEmail3" class="col-sm-2 col-form-label">Email</label>
+    <div class="col-sm-10">
+      <input type="email" class="form-control" id="inputEmail3" />
+    </div>
+  </div>
+  <div class="form-group row">
+    <label for="inputPassword3" class="col-sm-2 col-form-label">Password</label>
+    <div class="col-sm-10">
+      <input type="password" class="form-control" id="inputPassword3" />
+    </div>
+  </div>
+  <fieldset class="form-group">
+    <div class="row">
+      <legend class="col-form-label col-sm-2 pt-0">Radios</legend>
+      <div class="col-sm-10">
+        <div class="form-check">
+          <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios1" value="option1" checked="" />
+          <label class="form-check-label" for="gridRadios1">
             First radio
-          &lt;/label&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;form-check&quot;&gt;
-          &lt;input class=&quot;form-check-input&quot; type=&quot;radio&quot; name=&quot;gridRadios&quot; id=&quot;gridRadios2&quot; value=&quot;option2&quot; /&gt;
-          &lt;label class=&quot;form-check-label&quot; for=&quot;gridRadios2&quot;&gt;
+          </label>
+        </div>
+        <div class="form-check">
+          <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios2" value="option2" />
+          <label class="form-check-label" for="gridRadios2">
             Second radio
-          &lt;/label&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;form-check disabled&quot;&gt;
-          &lt;input class=&quot;form-check-input&quot; type=&quot;radio&quot; name=&quot;gridRadios&quot; id=&quot;gridRadios3&quot; value=&quot;option3&quot; disabled=&quot;&quot; /&gt;
-          &lt;label class=&quot;form-check-label&quot; for=&quot;gridRadios3&quot;&gt;
+          </label>
+        </div>
+        <div class="form-check disabled">
+          <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios3" value="option3" disabled="" />
+          <label class="form-check-label" for="gridRadios3">
             Third disabled radio
-          &lt;/label&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/fieldset&gt;
-  &lt;div class=&quot;form-group row&quot;&gt;
-    &lt;div class=&quot;col-sm-2&quot;&gt;Checkbox&lt;/div&gt;
-    &lt;div class=&quot;col-sm-10&quot;&gt;
-      &lt;div class=&quot;form-check&quot;&gt;
-        &lt;input class=&quot;form-check-input&quot; type=&quot;checkbox&quot; id=&quot;gridCheck1&quot; /&gt;
-        &lt;label class=&quot;form-check-label&quot; for=&quot;gridCheck1&quot;&gt;
+          </label>
+        </div>
+      </div>
+    </div>
+  </fieldset>
+  <div class="form-group row">
+    <div class="col-sm-2">Checkbox</div>
+    <div class="col-sm-10">
+      <div class="form-check">
+        <input class="form-check-input" type="checkbox" id="gridCheck1" />
+        <label class="form-check-label" for="gridCheck1">
           Example checkbox
-        &lt;/label&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;form-group row&quot;&gt;
-    &lt;div class=&quot;col-sm-10&quot;&gt;
-      &lt;button type=&quot;submit&quot; class=&quot;btn btn-primary&quot;&gt;Sign in&lt;/button&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/form&gt;
+        </label>
+      </div>
+    </div>
+  </div>
+  <div class="form-group row">
+    <div class="col-sm-10">
+      <button type="submit" class="btn btn-primary">Sign in</button>
+    </div>
+  </div>
+</form>
 
-&lt;div class=&quot;input-group mb-3&quot;&gt;
-  &lt;div class=&quot;input-group-prepend&quot;&gt;
-    &lt;span class=&quot;input-group-text&quot; id=&quot;basic-addon1&quot;&gt;@&lt;/span&gt;
-  &lt;/div&gt;
-  &lt;input type=&quot;text&quot; class=&quot;form-control&quot; placeholder=&quot;Username&quot; aria-label=&quot;Username&quot; aria-describedby=&quot;basic-addon1&quot; /&gt;
-&lt;/div&gt;
+<div class="input-group mb-3">
+  <div class="input-group-prepend">
+    <span class="input-group-text" id="basic-addon1">@</span>
+  </div>
+  <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1" />
+</div>
 
-&lt;div class=&quot;input-group mb-3&quot;&gt;
-  &lt;input type=&quot;text&quot; class=&quot;form-control&quot; placeholder=&quot;Recipient's username&quot; aria-label=&quot;Recipient's username&quot; aria-describedby=&quot;basic-addon2&quot; /&gt;
-  &lt;div class=&quot;input-group-append&quot;&gt;
-    &lt;span class=&quot;input-group-text&quot; id=&quot;basic-addon2&quot;&gt;@example.com&lt;/span&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+<div class="input-group mb-3">
+  <input type="text" class="form-control" placeholder="Recipient's username" aria-label="Recipient's username" aria-describedby="basic-addon2" />
+  <div class="input-group-append">
+    <span class="input-group-text" id="basic-addon2">@example.com</span>
+  </div>
+</div>
 
-&lt;p&gt;&lt;label for=&quot;basic-url&quot;&gt;Your vanity URL&lt;/label&gt;&lt;/p&gt;
-&lt;div class=&quot;input-group mb-3&quot;&gt;
-  &lt;div class=&quot;input-group-prepend&quot;&gt;
-    &lt;span class=&quot;input-group-text&quot; id=&quot;basic-addon3&quot;&gt;https://example.com/users/&lt;/span&gt;
-  &lt;/div&gt;
-  &lt;input type=&quot;text&quot; class=&quot;form-control&quot; id=&quot;basic-url&quot; aria-describedby=&quot;basic-addon3&quot; /&gt;
-&lt;/div&gt;
+<p><label for="basic-url">Your vanity URL</label></p>
+<div class="input-group mb-3">
+  <div class="input-group-prepend">
+    <span class="input-group-text" id="basic-addon3">https://example.com/users/</span>
+  </div>
+  <input type="text" class="form-control" id="basic-url" aria-describedby="basic-addon3" />
+</div>
 
-&lt;div class=&quot;input-group mb-3&quot;&gt;
-  &lt;div class=&quot;input-group-prepend&quot;&gt;
-    &lt;span class=&quot;input-group-text&quot;&gt;$&lt;/span&gt;
-  &lt;/div&gt;
-  &lt;input type=&quot;text&quot; class=&quot;form-control&quot; aria-label=&quot;Amount (to the nearest dollar)&quot; /&gt;
-  &lt;div class=&quot;input-group-append&quot;&gt;
-    &lt;span class=&quot;input-group-text&quot;&gt;.00&lt;/span&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+<div class="input-group mb-3">
+  <div class="input-group-prepend">
+    <span class="input-group-text">$</span>
+  </div>
+  <input type="text" class="form-control" aria-label="Amount (to the nearest dollar)" />
+  <div class="input-group-append">
+    <span class="input-group-text">.00</span>
+  </div>
+</div>
 
-&lt;div class=&quot;input-group&quot;&gt;
-  &lt;div class=&quot;input-group-prepend&quot;&gt;
-    &lt;span class=&quot;input-group-text&quot;&gt;With textarea&lt;/span&gt;
-  &lt;/div&gt;
-  &lt;textarea class=&quot;form-control&quot; aria-label=&quot;With textarea&quot;&gt;&lt;/textarea&gt;
-&lt;/div&gt;
+<div class="input-group">
+  <div class="input-group-prepend">
+    <span class="input-group-text">With textarea</span>
+  </div>
+  <textarea class="form-control" aria-label="With textarea"></textarea>
+</div>
 
-&lt;div class=&quot;jumbotron&quot;&gt;
-  &lt;h1 class=&quot;display-4&quot;&gt;Hello, world!&lt;/h1&gt;
-  &lt;p class=&quot;lead&quot;&gt;This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.&lt;/p&gt;
-  &lt;hr class=&quot;my-4&quot; /&gt;
-  &lt;p&gt;It uses utility classes for typography and spacing to space content out within the larger container.&lt;/p&gt;
-  &lt;a class=&quot;btn btn-primary btn-lg&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;Learn more&lt;/a&gt;
-&lt;/div&gt;
+<div class="jumbotron">
+  <h1 class="display-4">Hello, world!</h1>
+  <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <hr class="my-4" />
+  <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
+  <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+</div>
 
-&lt;ul class=&quot;list-group&quot;&gt;
-  &lt;li class=&quot;list-group-item d-flex justify-content-between align-items-center&quot;&gt;
+<ul class="list-group">
+  <li class="list-group-item d-flex justify-content-between align-items-center">
     Cras justo odio
-    &lt;span class=&quot;badge badge-primary badge-pill&quot;&gt;14&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item d-flex justify-content-between align-items-center&quot;&gt;
+    <span class="badge badge-primary badge-pill">14</span>
+  </li>
+  <li class="list-group-item d-flex justify-content-between align-items-center">
     Dapibus ac facilisis in
-    &lt;span class=&quot;badge badge-primary badge-pill&quot;&gt;2&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item d-flex justify-content-between align-items-center&quot;&gt;
+    <span class="badge badge-primary badge-pill">2</span>
+  </li>
+  <li class="list-group-item d-flex justify-content-between align-items-center">
     Morbi leo risus
-    &lt;span class=&quot;badge badge-primary badge-pill&quot;&gt;1&lt;/span&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+    <span class="badge badge-primary badge-pill">1</span>
+  </li>
+</ul>
 
-&lt;div class=&quot;list-group&quot;&gt;
-  &lt;button type=&quot;button&quot; class=&quot;list-group-item list-group-item-action active&quot;&gt;
+<div class="list-group">
+  <button type="button" class="list-group-item list-group-item-action active">
     Cras justo odio
-  &lt;/button&gt;
-  &lt;button type=&quot;button&quot; class=&quot;list-group-item list-group-item-action&quot;&gt;Dapibus ac facilisis in&lt;/button&gt;
-  &lt;button type=&quot;button&quot; class=&quot;list-group-item list-group-item-action&quot;&gt;Morbi leo risus&lt;/button&gt;
-  &lt;button type=&quot;button&quot; class=&quot;list-group-item list-group-item-action&quot;&gt;Porta ac consectetur ac&lt;/button&gt;
-  &lt;button type=&quot;button&quot; class=&quot;list-group-item list-group-item-action&quot; disabled=&quot;&quot;&gt;Vestibulum at eros&lt;/button&gt;
-&lt;/div&gt;
+  </button>
+  <button type="button" class="list-group-item list-group-item-action">Dapibus ac facilisis in</button>
+  <button type="button" class="list-group-item list-group-item-action">Morbi leo risus</button>
+  <button type="button" class="list-group-item list-group-item-action">Porta ac consectetur ac</button>
+  <button type="button" class="list-group-item list-group-item-action" disabled="">Vestibulum at eros</button>
+</div>
 
-&lt;ul class=&quot;list-unstyled&quot;&gt;
-  &lt;li class=&quot;media&quot;&gt;
-    &lt;img src=&quot;http://placehold.it/150x150&quot; class=&quot;mr-3&quot; alt=&quot;...&quot; /&gt;
-    &lt;div class=&quot;media-body&quot;&gt;
-      &lt;h5 class=&quot;mt-0 mb-1&quot;&gt;List-based media object&lt;/h5&gt;
+<ul class="list-unstyled">
+  <li class="media">
+    <img src="http://placehold.it/150x150" class="mr-3" alt="..." />
+    <div class="media-body">
+      <h5 class="mt-0 mb-1">List-based media object</h5>
       Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
-    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;media my-4&quot;&gt;
-    &lt;img src=&quot;http://placehold.it/150x150&quot; class=&quot;mr-3&quot; alt=&quot;...&quot; /&gt;
-    &lt;div class=&quot;media-body&quot;&gt;
-      &lt;h5 class=&quot;mt-0 mb-1&quot;&gt;List-based media object&lt;/h5&gt;
+    </div>
+  </li>
+  <li class="media my-4">
+    <img src="http://placehold.it/150x150" class="mr-3" alt="..." />
+    <div class="media-body">
+      <h5 class="mt-0 mb-1">List-based media object</h5>
       Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
-    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;media&quot;&gt;
-    &lt;img src=&quot;http://placehold.it/150x150&quot; class=&quot;mr-3&quot; alt=&quot;...&quot; /&gt;
-    &lt;div class=&quot;media-body&quot;&gt;
-      &lt;h5 class=&quot;mt-0 mb-1&quot;&gt;List-based media object&lt;/h5&gt;
+    </div>
+  </li>
+  <li class="media">
+    <img src="http://placehold.it/150x150" class="mr-3" alt="..." />
+    <div class="media-body">
+      <h5 class="mt-0 mb-1">List-based media object</h5>
       Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
-    &lt;/div&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+    </div>
+  </li>
+</ul>
 
-&lt;div class=&quot;modal&quot; tabindex=&quot;-1&quot;&gt;
-  &lt;div class=&quot;modal-dialog&quot;&gt;
-    &lt;div class=&quot;modal-content&quot;&gt;
-      &lt;div class=&quot;modal-header&quot;&gt;
-        &lt;h5 class=&quot;modal-title&quot;&gt;Modal title&lt;/h5&gt;
-        &lt;button type=&quot;button&quot; class=&quot;close&quot; data-dismiss=&quot;modal&quot; aria-label=&quot;Close&quot;&gt;
-          &lt;span aria-hidden=&quot;true&quot;&gt;&amp;times;&lt;/span&gt;
-        &lt;/button&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;modal-body&quot;&gt;
-        &lt;p&gt;Modal body text goes here.&lt;/p&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;modal-footer&quot;&gt;
-        &lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot; data-dismiss=&quot;modal&quot;&gt;Close&lt;/button&gt;
-        &lt;button type=&quot;button&quot; class=&quot;btn btn-primary&quot;&gt;Save changes&lt;/button&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+<div class="modal" tabindex="-1">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Modal title</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p>Modal body text goes here.</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
 
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-3&quot;&gt;
-    &lt;div class=&quot;nav flex-column nav-pills&quot; id=&quot;v-pills-tab&quot; role=&quot;tablist&quot; aria-orientation=&quot;vertical&quot;&gt;
-      &lt;a class=&quot;nav-link active&quot; id=&quot;v-pills-home-tab&quot; data-toggle=&quot;pill&quot; href=&quot;#v-pills-home&quot; role=&quot;tab&quot; aria-controls=&quot;v-pills-home&quot; aria-selected=&quot;true&quot;&gt;Home&lt;/a&gt;
-      &lt;a class=&quot;nav-link&quot; id=&quot;v-pills-profile-tab&quot; data-toggle=&quot;pill&quot; href=&quot;#v-pills-profile&quot; role=&quot;tab&quot; aria-controls=&quot;v-pills-profile&quot; aria-selected=&quot;false&quot;&gt;Profile&lt;/a&gt;
-      &lt;a class=&quot;nav-link&quot; id=&quot;v-pills-messages-tab&quot; data-toggle=&quot;pill&quot; href=&quot;#v-pills-messages&quot; role=&quot;tab&quot; aria-controls=&quot;v-pills-messages&quot; aria-selected=&quot;false&quot;&gt;Messages&lt;/a&gt;
-      &lt;a class=&quot;nav-link&quot; id=&quot;v-pills-settings-tab&quot; data-toggle=&quot;pill&quot; href=&quot;#v-pills-settings&quot; role=&quot;tab&quot; aria-controls=&quot;v-pills-settings&quot; aria-selected=&quot;false&quot;&gt;Settings&lt;/a&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-9&quot;&gt;
-    &lt;div class=&quot;tab-content&quot; id=&quot;v-pills-tabContent&quot;&gt;
-      &lt;div class=&quot;tab-pane fade show active&quot; id=&quot;v-pills-home&quot; role=&quot;tabpanel&quot; aria-labelledby=&quot;v-pills-home-tab&quot;&gt;...&lt;/div&gt;
-      &lt;div class=&quot;tab-pane fade&quot; id=&quot;v-pills-profile&quot; role=&quot;tabpanel&quot; aria-labelledby=&quot;v-pills-profile-tab&quot;&gt;...&lt;/div&gt;
-      &lt;div class=&quot;tab-pane fade&quot; id=&quot;v-pills-messages&quot; role=&quot;tabpanel&quot; aria-labelledby=&quot;v-pills-messages-tab&quot;&gt;...&lt;/div&gt;
-      &lt;div class=&quot;tab-pane fade&quot; id=&quot;v-pills-settings&quot; role=&quot;tabpanel&quot; aria-labelledby=&quot;v-pills-settings-tab&quot;&gt;...&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+<div class="row">
+  <div class="col-3">
+    <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+      <a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">Home</a>
+      <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">Profile</a>
+      <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false">Messages</a>
+      <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false">Settings</a>
+    </div>
+  </div>
+  <div class="col-9">
+    <div class="tab-content" id="v-pills-tabContent">
+      <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">...</div>
+      <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">...</div>
+      <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">...</div>
+      <div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">...</div>
+    </div>
+  </div>
+</div>
 
-&lt;script&gt;
+<script>
 $('#myTab a').on('click', function (e) {
   e.preventDefault()
   $(this).tab('show')
 })
-&lt;/script&gt;
+</script>
 
-&lt;!-- Image and text --&gt;
-&lt;nav class=&quot;navbar navbar-light bg-light&quot;&gt;
-  &lt;a class=&quot;navbar-brand&quot; href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/docs/4.5/assets/brand/bootstrap-solid.svg&quot; width=&quot;30&quot; height=&quot;30&quot; class=&quot;d-inline-block align-top&quot; alt=&quot;&quot; loading=&quot;lazy&quot; /&gt;
+<!-- Image and text -->
+<nav class="navbar navbar-light bg-light">
+  <a class="navbar-brand" href="#">
+    <img src="/docs/4.5/assets/brand/bootstrap-solid.svg" width="30" height="30" class="d-inline-block align-top" alt="" loading="lazy" />
     Bootstrap
-  &lt;/a&gt;
-&lt;/nav&gt;
+  </a>
+</nav>
 
-&lt;nav class=&quot;navbar navbar-dark bg-dark&quot;&gt;
-  &lt;!-- Navbar content --&gt;
-&lt;/nav&gt;
+<nav class="navbar navbar-dark bg-dark">
+  <!-- Navbar content -->
+</nav>
 
-&lt;nav class=&quot;navbar navbar-dark bg-primary&quot;&gt;
-  &lt;!-- Navbar content --&gt;
-&lt;/nav&gt;
+<nav class="navbar navbar-dark bg-primary">
+  <!-- Navbar content -->
+</nav>
 
-&lt;nav class=&quot;navbar navbar-light&quot; style=&quot;background-color: #e3f2fd;&quot;&gt;
-  &lt;!-- Navbar content --&gt;
-&lt;/nav&gt;
+<nav class="navbar navbar-light" style="background-color: #e3f2fd;">
+  <!-- Navbar content -->
+</nav>
 
-&lt;nav aria-label=&quot;Page navigation example&quot;&gt;
-  &lt;ul class=&quot;pagination justify-content-center&quot;&gt;
-    &lt;li class=&quot;page-item disabled&quot;&gt;
-      &lt;a class=&quot;page-link&quot; href=&quot;#&quot; tabindex=&quot;-1&quot; aria-disabled=&quot;true&quot;&gt;Previous&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;page-item&quot;&gt;&lt;a class=&quot;page-link&quot; href=&quot;#&quot;&gt;1&lt;/a&gt;&lt;/li&gt;
-    &lt;li class=&quot;page-item&quot;&gt;&lt;a class=&quot;page-link&quot; href=&quot;#&quot;&gt;2&lt;/a&gt;&lt;/li&gt;
-    &lt;li class=&quot;page-item&quot;&gt;&lt;a class=&quot;page-link&quot; href=&quot;#&quot;&gt;3&lt;/a&gt;&lt;/li&gt;
-    &lt;li class=&quot;page-item&quot;&gt;
-      &lt;a class=&quot;page-link&quot; href=&quot;#&quot;&gt;Next&lt;/a&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
+<nav aria-label="Page navigation example">
+  <ul class="pagination justify-content-center">
+    <li class="page-item disabled">
+      <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Previous</a>
+    </li>
+    <li class="page-item"><a class="page-link" href="#">1</a></li>
+    <li class="page-item"><a class="page-link" href="#">2</a></li>
+    <li class="page-item"><a class="page-link" href="#">3</a></li>
+    <li class="page-item">
+      <a class="page-link" href="#">Next</a>
+    </li>
+  </ul>
+</nav>
 
-&lt;p&gt;&lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot; data-container=&quot;body&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;Vivamus sagittis lacus vel augue laoreet rutrum faucibus.&quot;&gt;
+<p><button type="button" class="btn btn-secondary" data-container="body" data-toggle="popover" data-placement="top" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus.">
   Popover on top
-&lt;/button&gt;&lt;/p&gt;
+</button></p>
 
-&lt;p&gt;&lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot; data-container=&quot;body&quot; data-toggle=&quot;popover&quot; data-placement=&quot;right&quot; data-content=&quot;Vivamus sagittis lacus vel augue laoreet rutrum faucibus.&quot;&gt;
+<p><button type="button" class="btn btn-secondary" data-container="body" data-toggle="popover" data-placement="right" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus.">
   Popover on right
-&lt;/button&gt;&lt;/p&gt;
+</button></p>
 
-&lt;p&gt;&lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot; data-container=&quot;body&quot; data-toggle=&quot;popover&quot; data-placement=&quot;bottom&quot; data-content=&quot;Vivamus sagittis lacus vel augue laoreet rutrum faucibus.&quot;&gt;
+<p><button type="button" class="btn btn-secondary" data-container="body" data-toggle="popover" data-placement="bottom" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus.">
   Popover on bottom
-&lt;/button&gt;&lt;/p&gt;
+</button></p>
 
-&lt;p&gt;&lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot; data-container=&quot;body&quot; data-toggle=&quot;popover&quot; data-placement=&quot;left&quot; data-content=&quot;Vivamus sagittis lacus vel augue laoreet rutrum faucibus.&quot;&gt;
+<p><button type="button" class="btn btn-secondary" data-container="body" data-toggle="popover" data-placement="left" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus.">
   Popover on left
-&lt;/button&gt;&lt;/p&gt;
+</button></p>
 
-&lt;div class=&quot;spinner-border text-primary&quot; role=&quot;status&quot;&gt;
-  &lt;span class=&quot;sr-only&quot;&gt;Loading...&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&quot;spinner-border text-secondary&quot; role=&quot;status&quot;&gt;
-  &lt;span class=&quot;sr-only&quot;&gt;Loading...&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&quot;spinner-border text-success&quot; role=&quot;status&quot;&gt;
-  &lt;span class=&quot;sr-only&quot;&gt;Loading...&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&quot;spinner-border text-danger&quot; role=&quot;status&quot;&gt;
-  &lt;span class=&quot;sr-only&quot;&gt;Loading...&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&quot;spinner-border text-warning&quot; role=&quot;status&quot;&gt;
-  &lt;span class=&quot;sr-only&quot;&gt;Loading...&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&quot;spinner-border text-info&quot; role=&quot;status&quot;&gt;
-  &lt;span class=&quot;sr-only&quot;&gt;Loading...&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&quot;spinner-border text-light&quot; role=&quot;status&quot;&gt;
-  &lt;span class=&quot;sr-only&quot;&gt;Loading...&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&quot;spinner-border text-dark&quot; role=&quot;status&quot;&gt;
-  &lt;span class=&quot;sr-only&quot;&gt;Loading...&lt;/span&gt;
-&lt;/div&gt;
+<div class="spinner-border text-primary" role="status">
+  <span class="sr-only">Loading...</span>
+</div>
+<div class="spinner-border text-secondary" role="status">
+  <span class="sr-only">Loading...</span>
+</div>
+<div class="spinner-border text-success" role="status">
+  <span class="sr-only">Loading...</span>
+</div>
+<div class="spinner-border text-danger" role="status">
+  <span class="sr-only">Loading...</span>
+</div>
+<div class="spinner-border text-warning" role="status">
+  <span class="sr-only">Loading...</span>
+</div>
+<div class="spinner-border text-info" role="status">
+  <span class="sr-only">Loading...</span>
+</div>
+<div class="spinner-border text-light" role="status">
+  <span class="sr-only">Loading...</span>
+</div>
+<div class="spinner-border text-dark" role="status">
+  <span class="sr-only">Loading...</span>
+</div>
 
-&lt;div aria-live=&quot;polite&quot; aria-atomic=&quot;true&quot; style=&quot;position: relative; min-height: 200px;&quot;&gt;
-  &lt;!-- Position it --&gt;
-  &lt;div style=&quot;position: absolute; top: 0; right: 0;&quot;&gt;
+<div aria-live="polite" aria-atomic="true" style="position: relative; min-height: 200px;">
+  <!-- Position it -->
+  <div style="position: absolute; top: 0; right: 0;">
 
-    &lt;!-- Then put toasts within --&gt;
-    &lt;div class=&quot;toast&quot; role=&quot;alert&quot; aria-live=&quot;assertive&quot; aria-atomic=&quot;true&quot;&gt;
-      &lt;div class=&quot;toast-header&quot;&gt;
-        &lt;img src=&quot;http://placehold.it/150x150&quot; class=&quot;rounded mr-2&quot; alt=&quot;...&quot; /&gt;
-        &lt;strong class=&quot;mr-auto&quot;&gt;Bootstrap&lt;/strong&gt;
-        &lt;small class=&quot;text-muted&quot;&gt;just now&lt;/small&gt;
-        &lt;button type=&quot;button&quot; class=&quot;ml-2 mb-1 close&quot; data-dismiss=&quot;toast&quot; aria-label=&quot;Close&quot;&gt;
-          &lt;span aria-hidden=&quot;true&quot;&gt;&amp;times;&lt;/span&gt;
-        &lt;/button&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;toast-body&quot;&gt;
+    <!-- Then put toasts within -->
+    <div class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+      <div class="toast-header">
+        <img src="http://placehold.it/150x150" class="rounded mr-2" alt="..." />
+        <strong class="mr-auto">Bootstrap</strong>
+        <small class="text-muted">just now</small>
+        <button type="button" class="ml-2 mb-1 close" data-dismiss="toast" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="toast-body">
         See? Just like this.
-      &lt;/div&gt;
-    &lt;/div&gt;
+      </div>
+    </div>
 
-    &lt;div class=&quot;toast&quot; role=&quot;alert&quot; aria-live=&quot;assertive&quot; aria-atomic=&quot;true&quot;&gt;
-      &lt;div class=&quot;toast-header&quot;&gt;
-        &lt;img src=&quot;http://placehold.it/150x150&quot; class=&quot;rounded mr-2&quot; alt=&quot;...&quot; /&gt;
-        &lt;strong class=&quot;mr-auto&quot;&gt;Bootstrap&lt;/strong&gt;
-        &lt;small class=&quot;text-muted&quot;&gt;2 seconds ago&lt;/small&gt;
-        &lt;button type=&quot;button&quot; class=&quot;ml-2 mb-1 close&quot; data-dismiss=&quot;toast&quot; aria-label=&quot;Close&quot;&gt;
-          &lt;span aria-hidden=&quot;true&quot;&gt;&amp;times;&lt;/span&gt;
-        &lt;/button&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;toast-body&quot;&gt;
+    <div class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+      <div class="toast-header">
+        <img src="http://placehold.it/150x150" class="rounded mr-2" alt="..." />
+        <strong class="mr-auto">Bootstrap</strong>
+        <small class="text-muted">2 seconds ago</small>
+        <button type="button" class="ml-2 mb-1 close" data-dismiss="toast" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="toast-body">
         Heads up, toasts will stack automatically
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+      </div>
+    </div>
+  </div>
+</div>
 
-&lt;p&gt;&lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; title=&quot;Tooltip on top&quot;&gt;
+<p><button type="button" class="btn btn-secondary" data-toggle="tooltip" data-placement="top" title="Tooltip on top">
   Tooltip on top
-&lt;/button&gt;
-&lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;right&quot; title=&quot;Tooltip on right&quot;&gt;
+</button>
+<button type="button" class="btn btn-secondary" data-toggle="tooltip" data-placement="right" title="Tooltip on right">
   Tooltip on right
-&lt;/button&gt;
-&lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;bottom&quot; title=&quot;Tooltip on bottom&quot;&gt;
+</button>
+<button type="button" class="btn btn-secondary" data-toggle="tooltip" data-placement="bottom" title="Tooltip on bottom">
   Tooltip on bottom
-&lt;/button&gt;
-&lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;left&quot; title=&quot;Tooltip on left&quot;&gt;
+</button>
+<button type="button" class="btn btn-secondary" data-toggle="tooltip" data-placement="left" title="Tooltip on left">
   Tooltip on left
-&lt;/button&gt;&lt;/p&gt;
+</button></p>
 
-&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-  &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/5qap5aO4i9A?rel=0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/5qap5aO4i9A?rel=0" allowfullscreen=""></iframe>
+</div>
 
-&lt;p class=&quot;user-select-all&quot;&gt;This paragraph will be entirely selected when clicked by the user.&lt;/p&gt;
-&lt;p class=&quot;user-select-auto&quot;&gt;This paragraph has the default select behavior.&lt;/p&gt;
-&lt;p class=&quot;user-select-none&quot;&gt;This paragraph will not be selectable when clicked by the user.&lt;/p&gt;
+<p class="user-select-all">This paragraph will be entirely selected when clicked by the user.</p>
+<p class="user-select-auto">This paragraph has the default select behavior.</p>
+<p class="user-select-none">This paragraph will not be selectable when clicked by the user.</p>
 
-&lt;div class=&quot;overflow-auto&quot;&gt;...&lt;/div&gt;
-&lt;div class=&quot;overflow-hidden&quot;&gt;...&lt;/div&gt;
+<div class="overflow-auto">...</div>
+<div class="overflow-hidden">...</div>
 
-&lt;div id=&quot;ytplayer&quot;&gt;&lt;/div&gt;
+<div id="ytplayer"></div>
 
-&lt;script&gt;
+<script>
   // Load the IFrame Player API code asynchronously.
   var tag = document.createElement('script');
-  tag.src = &quot;https://www.youtube.com/player_api&quot;;
+  tag.src = "https://www.youtube.com/player_api";
   var firstScriptTag = document.getElementsByTagName('script')[0];
   firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
-  // Replace the 'ytplayer' element with an &lt;iframe&gt; and
+  // Replace the 'ytplayer' element with an <iframe> and
   // YouTube player after the API code downloads.
   var player;
   function onYouTubePlayerAPIReady() {
@@ -533,23 +533,23 @@ $('#myTab a').on('click', function (e) {
       videoId: 'M7lc1UVf-VE'
     });
   }
-&lt;/script&gt;
+</script>
 
-&lt;p&gt;Links using markdown are normal and styled like this …&lt;/p&gt;
+<p>Links using markdown are normal and styled like this …</p>
 
-&lt;p&gt;&lt;a href=&quot;https://codepen.io/melnik909/pen/KGxdjY&quot;&gt;A link&lt;/a&gt;&lt;/p&gt;
+<p><a href="https://codepen.io/melnik909/pen/KGxdjY">A link</a></p>
 
-&lt;p&gt;But if you use the right class, it can look like this…&lt;/p&gt;
+<p>But if you use the right class, it can look like this…</p>
 
-&lt;p&gt;&lt;a href=&quot;https://codepen.io/melnik909/pen/KGxdjY&quot; class=&quot;highlighted&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;
+<p><a href="https://codepen.io/melnik909/pen/KGxdjY" class="highlighted">read more</a></p>
 
-&lt;h4 id=&quot;making-charts-with-chartjs&quot;&gt;Making Charts with Chart.js&lt;/h4&gt;
+<h4 id="making-charts-with-chartjs">Making Charts with Chart.js</h4>
 
-&lt;canvas id=&quot;myChart&quot;&gt;&lt;/canvas&gt;
+<canvas id="myChart"></canvas>
 
-&lt;canvas id=&quot;myBarChart&quot; height=&quot;50&quot;&gt;&lt;/canvas&gt;
+<canvas id="myBarChart" height="50"></canvas>
 
-&lt;script&gt;
+<script>
 var ctx = document.getElementById('myBarChart').getContext('2d');
 var myBarChart = new Chart(ctx, {
     type: 'horizontalBar',
@@ -571,9 +571,9 @@ var myBarChart = new Chart(ctx, {
         }
     }
 });
-&lt;/script&gt;
+</script>
 
-&lt;script&gt;
+<script>
 var ctx = document.getElementById('myChart').getContext('2d');
 var chart = new Chart(ctx, {
     // The type of chart we want to create
@@ -599,37 +599,37 @@ var chart = new Chart(ctx, {
     // Configuration options go here
     options: {}
 });
-&lt;/script&gt;
+</script>
 
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;This is the first footnote. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:bignote&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Here’s one with multiple paragraphs and code.&lt;/p&gt;
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>This is the first footnote. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:bignote" role="doc-endnote">
+      <p>Here’s one with multiple paragraphs and code.</p>
 
-      &lt;p&gt;Indent paragraphs to include them in the footnote.&lt;/p&gt;
+      <p>Indent paragraphs to include them in the footnote.</p>
 
-      &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;{ my code }&lt;/code&gt;&lt;/p&gt;
+      <p><code class="language-plaintext highlighter-rouge">{ my code }</code></p>
 
-      &lt;p&gt;Add as many paragraphs as you like. &lt;a href=&quot;#fnref:bignote&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Tyler Butler</name></author><category term="post" /><category term="styleguide" /><summary type="html">Markdown Bootstrap [Custom CSS]</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://placehold.it/750X300?text=Header+Image" /><media:content medium="image" url="http://placehold.it/750X300?text=Header+Image" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Lorem Ipsum</title><link href="https://ruiqiliu.com//post/ipsum/2020/10/26/Lorem-Ipsum.html" rel="alternate" type="text/html" title="Lorem Ipsum" /><published>2020-10-26T19:01:21-05:00</published><updated>2020-10-26T19:01:21-05:00</updated><id>https://ruiqiliu.com//post/ipsum/2020/10/26/Lorem-Ipsum</id><content type="html" xml:base="https://ruiqiliu.com//post/ipsum/2020/10/26/Lorem-Ipsum.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna id volutpat lacus laoreet non curabitur gravida arcu. Quisque non tellus orci ac. Tincidunt tortor aliquam nulla facilisi cras fermentum odio eu. Cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam. Maecenas ultricies mi eget mauris pharetra et ultrices neque ornare. Mi proin sed libero enim. Vitae sapien pellentesque habitant morbi tristique. Sit amet commodo nulla facilisi nullam vehicula. A condimentum vitae sapien pellentesque habitant morbi. Id venenatis a condimentum vitae sapien. In nulla posuere sollicitudin aliquam ultrices.&lt;/p&gt;
+      <p>Add as many paragraphs as you like. <a href="#fnref:bignote" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name>Tyler Butler</name></author><category term="post" /><category term="styleguide" /><summary type="html"><![CDATA[The Only Useful Post Here]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://placehold.it/750X300?text=Header+Image" /><media:content medium="image" url="http://placehold.it/750X300?text=Header+Image" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Lorem Ipsum</title><link href="https://ruiqiliu.com//post/ipsum/2020/10/26/Lorem-Ipsum.html" rel="alternate" type="text/html" title="Lorem Ipsum" /><published>2020-10-26T19:01:21-05:00</published><updated>2020-10-26T19:01:21-05:00</updated><id>https://ruiqiliu.com//post/ipsum/2020/10/26/Lorem-Ipsum</id><content type="html" xml:base="https://ruiqiliu.com//post/ipsum/2020/10/26/Lorem-Ipsum.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna id volutpat lacus laoreet non curabitur gravida arcu. Quisque non tellus orci ac. Tincidunt tortor aliquam nulla facilisi cras fermentum odio eu. Cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam. Maecenas ultricies mi eget mauris pharetra et ultrices neque ornare. Mi proin sed libero enim. Vitae sapien pellentesque habitant morbi tristique. Sit amet commodo nulla facilisi nullam vehicula. A condimentum vitae sapien pellentesque habitant morbi. Id venenatis a condimentum vitae sapien. In nulla posuere sollicitudin aliquam ultrices.</p>
 
-&lt;p&gt;Amet mauris commodo quis imperdiet massa tincidunt. Pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus. Orci sagittis eu volutpat odio facilisis mauris sit amet. Est lorem ipsum dolor sit amet consectetur adipiscing elit pellentesque. Amet consectetur adipiscing elit pellentesque habitant morbi. Sit amet nulla facilisi morbi tempus iaculis urna. A lacus vestibulum sed arcu. Turpis cursus in hac habitasse platea dictumst. Vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt. Est ante in nibh mauris cursus mattis molestie a. Sit amet massa vitae tortor condimentum lacinia. Mauris ultrices eros in cursus turpis. Pellentesque habitant morbi tristique senectus et. Congue nisi vitae suscipit tellus mauris. Tincidunt praesent semper feugiat nibh sed pulvinar. Nec dui nunc mattis enim ut tellus elementum sagittis. Metus vulputate eu scelerisque felis. Morbi enim nunc faucibus a pellentesque. Pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum odio.&lt;/p&gt;
+<p>Amet mauris commodo quis imperdiet massa tincidunt. Pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus. Orci sagittis eu volutpat odio facilisis mauris sit amet. Est lorem ipsum dolor sit amet consectetur adipiscing elit pellentesque. Amet consectetur adipiscing elit pellentesque habitant morbi. Sit amet nulla facilisi morbi tempus iaculis urna. A lacus vestibulum sed arcu. Turpis cursus in hac habitasse platea dictumst. Vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt. Est ante in nibh mauris cursus mattis molestie a. Sit amet massa vitae tortor condimentum lacinia. Mauris ultrices eros in cursus turpis. Pellentesque habitant morbi tristique senectus et. Congue nisi vitae suscipit tellus mauris. Tincidunt praesent semper feugiat nibh sed pulvinar. Nec dui nunc mattis enim ut tellus elementum sagittis. Metus vulputate eu scelerisque felis. Morbi enim nunc faucibus a pellentesque. Pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum odio.</p>
 
-&lt;p&gt;A erat nam at lectus urna duis convallis convallis tellus. Adipiscing elit ut aliquam purus sit amet luctus venenatis lectus. Tristique risus nec feugiat in fermentum posuere urna nec. Vitae aliquet nec ullamcorper sit amet. Diam volutpat commodo sed egestas. Purus semper eget duis at tellus at urna condimentum mattis. Tristique senectus et netus et malesuada. Sit amet tellus cras adipiscing enim. Senectus et netus et malesuada fames ac turpis egestas integer. Amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus et. Non diam phasellus vestibulum lorem sed risus ultricies. Neque sodales ut etiam sit amet nisl purus in. Molestie at elementum eu facilisis. Turpis egestas integer eget aliquet nibh praesent. Turpis in eu mi bibendum neque. Molestie at elementum eu facilisis sed odio morbi quis commodo. Phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet enim. Purus gravida quis blandit turpis. Mi in nulla posuere sollicitudin aliquam ultrices.&lt;/p&gt;
+<p>A erat nam at lectus urna duis convallis convallis tellus. Adipiscing elit ut aliquam purus sit amet luctus venenatis lectus. Tristique risus nec feugiat in fermentum posuere urna nec. Vitae aliquet nec ullamcorper sit amet. Diam volutpat commodo sed egestas. Purus semper eget duis at tellus at urna condimentum mattis. Tristique senectus et netus et malesuada. Sit amet tellus cras adipiscing enim. Senectus et netus et malesuada fames ac turpis egestas integer. Amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus et. Non diam phasellus vestibulum lorem sed risus ultricies. Neque sodales ut etiam sit amet nisl purus in. Molestie at elementum eu facilisis. Turpis egestas integer eget aliquet nibh praesent. Turpis in eu mi bibendum neque. Molestie at elementum eu facilisis sed odio morbi quis commodo. Phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet enim. Purus gravida quis blandit turpis. Mi in nulla posuere sollicitudin aliquam ultrices.</p>
 
-&lt;p&gt;Donec ac odio tempor orci dapibus ultrices in. Sed libero enim sed faucibus turpis in eu. Viverra aliquet eget sit amet tellus cras adipiscing enim. Feugiat nibh sed pulvinar proin. Congue eu consequat ac felis donec et odio pellentesque diam. Consequat interdum varius sit amet mattis vulputate enim nulla. Feugiat nibh sed pulvinar proin gravida hendrerit lectus. Sit amet consectetur adipiscing elit. Nunc vel risus commodo viverra maecenas accumsan lacus vel facilisis. Viverra orci sagittis eu volutpat. Integer eget aliquet nibh praesent tristique magna sit amet purus. Ullamcorper sit amet risus nullam. Non pulvinar neque laoreet suspendisse interdum consectetur libero. Consequat id porta nibh venenatis cras sed felis. Nisi lacus sed viverra tellus in hac habitasse. Viverra mauris in aliquam sem fringilla ut.&lt;/p&gt;
+<p>Donec ac odio tempor orci dapibus ultrices in. Sed libero enim sed faucibus turpis in eu. Viverra aliquet eget sit amet tellus cras adipiscing enim. Feugiat nibh sed pulvinar proin. Congue eu consequat ac felis donec et odio pellentesque diam. Consequat interdum varius sit amet mattis vulputate enim nulla. Feugiat nibh sed pulvinar proin gravida hendrerit lectus. Sit amet consectetur adipiscing elit. Nunc vel risus commodo viverra maecenas accumsan lacus vel facilisis. Viverra orci sagittis eu volutpat. Integer eget aliquet nibh praesent tristique magna sit amet purus. Ullamcorper sit amet risus nullam. Non pulvinar neque laoreet suspendisse interdum consectetur libero. Consequat id porta nibh venenatis cras sed felis. Nisi lacus sed viverra tellus in hac habitasse. Viverra mauris in aliquam sem fringilla ut.</p>
 
-&lt;p&gt;Pulvinar pellentesque habitant morbi tristique senectus et netus et. Lacus laoreet non curabitur gravida arcu ac. Pulvinar pellentesque habitant morbi tristique senectus et netus. Ut lectus arcu bibendum at varius vel. Ridiculus mus mauris vitae ultricies leo integer malesuada. Amet dictum sit amet justo. Pretium vulputate sapien nec sagittis aliquam malesuada. Libero enim sed faucibus turpis in. Id volutpat lacus laoreet non curabitur gravida arcu ac. Morbi tristique senectus et netus. Id neque aliquam vestibulum morbi blandit cursus risus at. Turpis massa sed elementum tempus egestas sed sed risus pretium. Tincidunt eget nullam non nisi est sit amet facilisis. Amet purus gravida quis blandit turpis cursus in. Semper risus in hendrerit gravida rutrum quisque non tellus. Cras adipiscing enim eu turpis egestas pretium aenean pharetra.&lt;/p&gt;</content><author><name>Tyler Butler</name></author><category term="post" /><category term="ipsum" /><category term="ipsum" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna id volutpat lacus laoreet non curabitur gravida arcu. Quisque non tellus orci ac. Tincidunt tortor aliquam nulla facilisi cras fermentum odio eu. Cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam. Maecenas ultricies mi eget mauris pharetra et ultrices neque ornare. Mi proin sed libero enim. Vitae sapien pellentesque habitant morbi tristique. Sit amet commodo nulla facilisi nullam vehicula. A condimentum vitae sapien pellentesque habitant morbi. Id venenatis a condimentum vitae sapien. In nulla posuere sollicitudin aliquam ultrices.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://placehold.it/750X300?text=Header+Image" /><media:content medium="image" url="http://placehold.it/750X300?text=Header+Image" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Another Blog Post</title><link href="https://ruiqiliu.com//post/ipsum/2020/10/26/Lorem-Ipsum2.html" rel="alternate" type="text/html" title="Another Blog Post" /><published>2020-10-26T19:01:21-05:00</published><updated>2020-10-26T19:01:21-05:00</updated><id>https://ruiqiliu.com//post/ipsum/2020/10/26/Lorem-Ipsum2</id><content type="html" xml:base="https://ruiqiliu.com//post/ipsum/2020/10/26/Lorem-Ipsum2.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna id volutpat lacus laoreet non curabitur gravida arcu. Quisque non tellus orci ac. Tincidunt tortor aliquam nulla facilisi cras fermentum odio eu. Cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam. Maecenas ultricies mi eget mauris pharetra et ultrices neque ornare. Mi proin sed libero enim. Vitae sapien pellentesque habitant morbi tristique. Sit amet commodo nulla facilisi nullam vehicula. A condimentum vitae sapien pellentesque habitant morbi. Id venenatis a condimentum vitae sapien. In nulla posuere sollicitudin aliquam ultrices.&lt;/p&gt;
+<p>Pulvinar pellentesque habitant morbi tristique senectus et netus et. Lacus laoreet non curabitur gravida arcu ac. Pulvinar pellentesque habitant morbi tristique senectus et netus. Ut lectus arcu bibendum at varius vel. Ridiculus mus mauris vitae ultricies leo integer malesuada. Amet dictum sit amet justo. Pretium vulputate sapien nec sagittis aliquam malesuada. Libero enim sed faucibus turpis in. Id volutpat lacus laoreet non curabitur gravida arcu ac. Morbi tristique senectus et netus. Id neque aliquam vestibulum morbi blandit cursus risus at. Turpis massa sed elementum tempus egestas sed sed risus pretium. Tincidunt eget nullam non nisi est sit amet facilisis. Amet purus gravida quis blandit turpis cursus in. Semper risus in hendrerit gravida rutrum quisque non tellus. Cras adipiscing enim eu turpis egestas pretium aenean pharetra.</p>]]></content><author><name>Tyler Butler</name></author><category term="post" /><category term="ipsum" /><category term="ipsum" /><summary type="html"><![CDATA[A Description]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://placehold.it/750X300?text=Header+Image" /><media:content medium="image" url="http://placehold.it/750X300?text=Header+Image" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Another Blog Post</title><link href="https://ruiqiliu.com//post/ipsum/2020/10/26/Lorem-Ipsum2.html" rel="alternate" type="text/html" title="Another Blog Post" /><published>2020-10-26T19:01:21-05:00</published><updated>2020-10-26T19:01:21-05:00</updated><id>https://ruiqiliu.com//post/ipsum/2020/10/26/Lorem-Ipsum2</id><content type="html" xml:base="https://ruiqiliu.com//post/ipsum/2020/10/26/Lorem-Ipsum2.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna id volutpat lacus laoreet non curabitur gravida arcu. Quisque non tellus orci ac. Tincidunt tortor aliquam nulla facilisi cras fermentum odio eu. Cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam. Maecenas ultricies mi eget mauris pharetra et ultrices neque ornare. Mi proin sed libero enim. Vitae sapien pellentesque habitant morbi tristique. Sit amet commodo nulla facilisi nullam vehicula. A condimentum vitae sapien pellentesque habitant morbi. Id venenatis a condimentum vitae sapien. In nulla posuere sollicitudin aliquam ultrices.</p>
 
-&lt;p&gt;Amet mauris commodo quis imperdiet massa tincidunt. Pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus. Orci sagittis eu volutpat odio facilisis mauris sit amet. Est lorem ipsum dolor sit amet consectetur adipiscing elit pellentesque. Amet consectetur adipiscing elit pellentesque habitant morbi. Sit amet nulla facilisi morbi tempus iaculis urna. A lacus vestibulum sed arcu. Turpis cursus in hac habitasse platea dictumst. Vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt. Est ante in nibh mauris cursus mattis molestie a. Sit amet massa vitae tortor condimentum lacinia. Mauris ultrices eros in cursus turpis. Pellentesque habitant morbi tristique senectus et. Congue nisi vitae suscipit tellus mauris. Tincidunt praesent semper feugiat nibh sed pulvinar. Nec dui nunc mattis enim ut tellus elementum sagittis. Metus vulputate eu scelerisque felis. Morbi enim nunc faucibus a pellentesque. Pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum odio.&lt;/p&gt;
+<p>Amet mauris commodo quis imperdiet massa tincidunt. Pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus. Orci sagittis eu volutpat odio facilisis mauris sit amet. Est lorem ipsum dolor sit amet consectetur adipiscing elit pellentesque. Amet consectetur adipiscing elit pellentesque habitant morbi. Sit amet nulla facilisi morbi tempus iaculis urna. A lacus vestibulum sed arcu. Turpis cursus in hac habitasse platea dictumst. Vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt. Est ante in nibh mauris cursus mattis molestie a. Sit amet massa vitae tortor condimentum lacinia. Mauris ultrices eros in cursus turpis. Pellentesque habitant morbi tristique senectus et. Congue nisi vitae suscipit tellus mauris. Tincidunt praesent semper feugiat nibh sed pulvinar. Nec dui nunc mattis enim ut tellus elementum sagittis. Metus vulputate eu scelerisque felis. Morbi enim nunc faucibus a pellentesque. Pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum odio.</p>
 
-&lt;p&gt;A erat nam at lectus urna duis convallis convallis tellus. Adipiscing elit ut aliquam purus sit amet luctus venenatis lectus. Tristique risus nec feugiat in fermentum posuere urna nec. Vitae aliquet nec ullamcorper sit amet. Diam volutpat commodo sed egestas. Purus semper eget duis at tellus at urna condimentum mattis. Tristique senectus et netus et malesuada. Sit amet tellus cras adipiscing enim. Senectus et netus et malesuada fames ac turpis egestas integer. Amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus et. Non diam phasellus vestibulum lorem sed risus ultricies. Neque sodales ut etiam sit amet nisl purus in. Molestie at elementum eu facilisis. Turpis egestas integer eget aliquet nibh praesent. Turpis in eu mi bibendum neque. Molestie at elementum eu facilisis sed odio morbi quis commodo. Phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet enim. Purus gravida quis blandit turpis. Mi in nulla posuere sollicitudin aliquam ultrices.&lt;/p&gt;
+<p>A erat nam at lectus urna duis convallis convallis tellus. Adipiscing elit ut aliquam purus sit amet luctus venenatis lectus. Tristique risus nec feugiat in fermentum posuere urna nec. Vitae aliquet nec ullamcorper sit amet. Diam volutpat commodo sed egestas. Purus semper eget duis at tellus at urna condimentum mattis. Tristique senectus et netus et malesuada. Sit amet tellus cras adipiscing enim. Senectus et netus et malesuada fames ac turpis egestas integer. Amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus et. Non diam phasellus vestibulum lorem sed risus ultricies. Neque sodales ut etiam sit amet nisl purus in. Molestie at elementum eu facilisis. Turpis egestas integer eget aliquet nibh praesent. Turpis in eu mi bibendum neque. Molestie at elementum eu facilisis sed odio morbi quis commodo. Phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet enim. Purus gravida quis blandit turpis. Mi in nulla posuere sollicitudin aliquam ultrices.</p>
 
-&lt;p&gt;Donec ac odio tempor orci dapibus ultrices in. Sed libero enim sed faucibus turpis in eu. Viverra aliquet eget sit amet tellus cras adipiscing enim. Feugiat nibh sed pulvinar proin. Congue eu consequat ac felis donec et odio pellentesque diam. Consequat interdum varius sit amet mattis vulputate enim nulla. Feugiat nibh sed pulvinar proin gravida hendrerit lectus. Sit amet consectetur adipiscing elit. Nunc vel risus commodo viverra maecenas accumsan lacus vel facilisis. Viverra orci sagittis eu volutpat. Integer eget aliquet nibh praesent tristique magna sit amet purus. Ullamcorper sit amet risus nullam. Non pulvinar neque laoreet suspendisse interdum consectetur libero. Consequat id porta nibh venenatis cras sed felis. Nisi lacus sed viverra tellus in hac habitasse. Viverra mauris in aliquam sem fringilla ut.&lt;/p&gt;
+<p>Donec ac odio tempor orci dapibus ultrices in. Sed libero enim sed faucibus turpis in eu. Viverra aliquet eget sit amet tellus cras adipiscing enim. Feugiat nibh sed pulvinar proin. Congue eu consequat ac felis donec et odio pellentesque diam. Consequat interdum varius sit amet mattis vulputate enim nulla. Feugiat nibh sed pulvinar proin gravida hendrerit lectus. Sit amet consectetur adipiscing elit. Nunc vel risus commodo viverra maecenas accumsan lacus vel facilisis. Viverra orci sagittis eu volutpat. Integer eget aliquet nibh praesent tristique magna sit amet purus. Ullamcorper sit amet risus nullam. Non pulvinar neque laoreet suspendisse interdum consectetur libero. Consequat id porta nibh venenatis cras sed felis. Nisi lacus sed viverra tellus in hac habitasse. Viverra mauris in aliquam sem fringilla ut.</p>
 
-&lt;p&gt;Pulvinar pellentesque habitant morbi tristique senectus et netus et. Lacus laoreet non curabitur gravida arcu ac. Pulvinar pellentesque habitant morbi tristique senectus et netus. Ut lectus arcu bibendum at varius vel. Ridiculus mus mauris vitae ultricies leo integer malesuada. Amet dictum sit amet justo. Pretium vulputate sapien nec sagittis aliquam malesuada. Libero enim sed faucibus turpis in. Id volutpat lacus laoreet non curabitur gravida arcu ac. Morbi tristique senectus et netus. Id neque aliquam vestibulum morbi blandit cursus risus at. Turpis massa sed elementum tempus egestas sed sed risus pretium. Tincidunt eget nullam non nisi est sit amet facilisis. Amet purus gravida quis blandit turpis cursus in. Semper risus in hendrerit gravida rutrum quisque non tellus. Cras adipiscing enim eu turpis egestas pretium aenean pharetra.&lt;/p&gt;</content><author><name>Tyler Butler</name></author><category term="post" /><category term="ipsum" /><category term="jekyll" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna id volutpat lacus laoreet non curabitur gravida arcu. Quisque non tellus orci ac. Tincidunt tortor aliquam nulla facilisi cras fermentum odio eu. Cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam. Maecenas ultricies mi eget mauris pharetra et ultrices neque ornare. Mi proin sed libero enim. Vitae sapien pellentesque habitant morbi tristique. Sit amet commodo nulla facilisi nullam vehicula. A condimentum vitae sapien pellentesque habitant morbi. Id venenatis a condimentum vitae sapien. In nulla posuere sollicitudin aliquam ultrices.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://placehold.it/750X300?text=Header+Image" /><media:content medium="image" url="http://placehold.it/750X300?text=Header+Image" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Project 1</title><link href="https://ruiqiliu.com//project/2020/08/10/Project-1.html" rel="alternate" type="text/html" title="Project 1" /><published>2020-08-10T19:01:21-05:00</published><updated>2020-08-10T19:01:21-05:00</updated><id>https://ruiqiliu.com//project/2020/08/10/Project-1</id><content type="html" xml:base="https://ruiqiliu.com//project/2020/08/10/Project-1.html"></content><author><name>Ruiqi</name></author><category term="project" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ruiqiliu.com//assets/img/posts/blog2.jpg" /><media:content medium="image" url="https://ruiqiliu.com//assets/img/posts/blog2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>Pulvinar pellentesque habitant morbi tristique senectus et netus et. Lacus laoreet non curabitur gravida arcu ac. Pulvinar pellentesque habitant morbi tristique senectus et netus. Ut lectus arcu bibendum at varius vel. Ridiculus mus mauris vitae ultricies leo integer malesuada. Amet dictum sit amet justo. Pretium vulputate sapien nec sagittis aliquam malesuada. Libero enim sed faucibus turpis in. Id volutpat lacus laoreet non curabitur gravida arcu ac. Morbi tristique senectus et netus. Id neque aliquam vestibulum morbi blandit cursus risus at. Turpis massa sed elementum tempus egestas sed sed risus pretium. Tincidunt eget nullam non nisi est sit amet facilisis. Amet purus gravida quis blandit turpis cursus in. Semper risus in hendrerit gravida rutrum quisque non tellus. Cras adipiscing enim eu turpis egestas pretium aenean pharetra.</p>]]></content><author><name>Tyler Butler</name></author><category term="post" /><category term="ipsum" /><category term="jekyll" /><summary type="html"><![CDATA[A Description]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://placehold.it/750X300?text=Header+Image" /><media:content medium="image" url="http://placehold.it/750X300?text=Header+Image" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Project 1</title><link href="https://ruiqiliu.com//project/2020/08/10/Project-1.html" rel="alternate" type="text/html" title="Project 1" /><published>2020-08-10T19:01:21-05:00</published><updated>2020-08-10T19:01:21-05:00</updated><id>https://ruiqiliu.com//project/2020/08/10/Project-1</id><content type="html" xml:base="https://ruiqiliu.com//project/2020/08/10/Project-1.html"><![CDATA[]]></content><author><name>Ruiqi</name></author><category term="project" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ruiqiliu.com//assets/img/posts/blog2.jpg" /><media:content medium="image" url="https://ruiqiliu.com//assets/img/posts/blog2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
