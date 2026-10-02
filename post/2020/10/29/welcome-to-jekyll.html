@@ -277,7 +277,7 @@ MathJax.Hub.Register.MessageHook("TeX Jax - parse error",function (message) {
 
             </p>
             
-              <p class="card-text"><small class="text-muted">This page was last updated at 2026-09-29 20:29.</small></p>
+              <p class="card-text"><small class="text-muted">This page was last updated at 2026-10-01 09:37.</small></p>
             
           </div>
       </div>
@@ -285,29 +285,32 @@ MathJax.Hub.Register.MessageHook("TeX Jax - parse error",function (message) {
     </div>
     <div class="navbar navbar-default navbar-fixed-bottom" style="margin-left:-120px;">
   <div class="container container-bottom">
-    <p class="navbar-text pull-left">© 2019-2025 Ruiqi Liu. All rights reserved.
+    <p class="navbar-text pull-left">
+      © 2019-<span id="current-year"></span> Ruiqi Liu. All rights reserved.
     </p>
     <p class="navbar-text pull-right">
-            <!-- Displays Social Media Icons based on _config.yml settings -->
+      <!-- Displays Social Media Icons based on _config.yml settings -->
 
 
     </p>
   </div>
-</div> 
+</div>
+
+<script>
+  document.getElementById("current-year").textContent = new Date().getFullYear();
+</script>
 
 <script>
   $(function () {
-    $('[data-toggle="popover"]').popover()
-  })
+    $('[data-toggle="popover"]').popover();
+  });
 </script>
 
 <script>
-    $(document).ready(function(){
-        $('[data-toggle="tooltip"]').tooltip();   
-    });
+  $(document).ready(function(){
+    $('[data-toggle="tooltip"]').tooltip();
+  });
 </script>
-
-
 
 
 <!-- ANIMATE.JS ANIMATE LIBRARY

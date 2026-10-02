@@ -212,7 +212,7 @@ MathJax.Hub.Register.MessageHook("TeX Jax - parse error",function (message) {
 <h5 id="publications">Publications</h5>
 <ul>
   <li>
-    <p><a href="#" target="_blank" class="highlighted">A Deep Learning Framework for Scalar-on-Function Models</a>
+    <p><a href="https://neurips.cc/virtual/2026/poster/148580" target="_blank" class="highlighted">A Deep Learning Framework for Scalar-on-Function Models</a>
 <br /> <strong>Ruiqi Liu</strong> and Suneel Babu Chatla
 <br /><strong style="color:#ce4334;">NeurIPS</strong>, 2026</p>
   </li>
@@ -339,29 +339,32 @@ Panel Data &nbsp;<a href="https://www.dropbox.com/scl/fi/ptbvztpacacofb102q3ht/m
     </div>
     <div class="navbar navbar-default navbar-fixed-bottom" style="margin-left:-120px;">
   <div class="container container-bottom">
-    <p class="navbar-text pull-left">© 2019-2025 Ruiqi Liu. All rights reserved.
+    <p class="navbar-text pull-left">
+      © 2019-<span id="current-year"></span> Ruiqi Liu. All rights reserved.
     </p>
     <p class="navbar-text pull-right">
-            <!-- Displays Social Media Icons based on _config.yml settings -->
+      <!-- Displays Social Media Icons based on _config.yml settings -->
 
 
     </p>
   </div>
-</div> 
+</div>
+
+<script>
+  document.getElementById("current-year").textContent = new Date().getFullYear();
+</script>
 
 <script>
   $(function () {
-    $('[data-toggle="popover"]').popover()
-  })
+    $('[data-toggle="popover"]').popover();
+  });
 </script>
 
 <script>
-    $(document).ready(function(){
-        $('[data-toggle="tooltip"]').tooltip();   
-    });
+  $(document).ready(function(){
+    $('[data-toggle="tooltip"]').tooltip();
+  });
 </script>
-
-
 
 
 <!-- ANIMATE.JS ANIMATE LIBRARY
